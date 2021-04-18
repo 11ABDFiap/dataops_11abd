@@ -481,3 +481,9 @@ org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.la
 !ENTRY org.talend.platform.logging 1 0 2021-04-18 20:20:07.961
 !MESSAGE 2021-04-18 20:20:07,960 INFO  org.talend.designer.core.runprocess.Processor  - Command line: /usr/lib/jvm/java-11-openjdk-amd64/bin/java -Xms256M -Xmx1024M -Dtalend.component.manager.m2.repository=/home/leonardo/Downloads/TOS_BD-20200219_1130-V7.3.1/configuration/.m2/repository -Dfile.encoding=UTF-8 -Dencryption.keys.file=/home/leonardo/Downloads/TOS_BD-20200219_1130-V7.3.1/configuration/studio.keys -cp /home/leonardo/git/fiap/dataops_11abd/trabalho-final/workspace/TRAB_FINAL/poms/jobs/process/raw_data_0.1/target/classpath.jar: trab_final.raw_data_0_1.Raw_Data --context=Default --stat_port=3850 "$@"
 
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-04-18 20:26:59.603
+!MESSAGE The workspace will exit with unsaved changes in this session.
+
+!ENTRY org.eclipse.core.resources 4 566 2021-04-18 20:26:59.760
+!MESSAGE Workspace was not properly initialized or has already shutdown.

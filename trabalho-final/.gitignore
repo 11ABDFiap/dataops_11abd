@@ -34,3 +34,10 @@ build/
 !gradle-wrapper.jar
 gradle-app.setting
 .gradletasknamecache
+
+workspace/.JETEmitters/ 
+
+workspace/.metadata/
+
+
+

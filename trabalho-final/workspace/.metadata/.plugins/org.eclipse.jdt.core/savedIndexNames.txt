@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+/home/leonardo/git/fiap/dataops_11abd/trabalho-final/workspace/.metadata/.plugins/org.eclipse.jdt.core
-1763309875.index
-714899725.index
-2855414504.index

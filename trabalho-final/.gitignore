@@ -42,3 +42,10 @@ workspace/.metadata/
 workspace/TRAB_FINAL/sqlPatterns/
 
 workspace/TRAB_FINAL/poms/
+
+workspace/.Java/
+
+workspace/*.csv
+
+workspace/TRAB_FINAL_TMP/
+

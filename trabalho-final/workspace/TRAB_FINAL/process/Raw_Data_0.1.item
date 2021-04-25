@@ -42,7 +42,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:qT2cZZ4nnlB7Dk+zUa4zqnfRc/ZpKUZi8hwg7hp2" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:TgSXI1/l9WA+4XUXkG7WoJn/aZZNfobUw5v6dc8E" show="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
@@ -77,7 +77,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:ZX8qeSyIq0GgZC06oXDljXwJ0sxeMkiquRvP0+nn" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:16qzKlIfum0qlzBKY4oKfTNmO8xbqA0tpmYPLyNo" show="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" show="false"/>
@@ -121,7 +121,7 @@
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;SalesLT&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:H1ABBMUXNcvji7W7/m1YfYLtWe3kjm+YzO83pxvPTDkM8a+kMSA1"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:EPkYBnMnOlvAnYoaOzbEjsSgnPtWvgFYqQo1bENT35j2J3J4jm4h"/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;ISO-8859-15&quot;" show="false"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;"/>
@@ -146,7 +146,7 @@
     <elementParameter field="TEXT" name="DB_SCHEMA" value="&quot;SalesLT&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:HHRhrjHRXso5n01GErlFRSFPpWL6mxBx0uXYvDVVLtWU+GyIirvP" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:MTSoZAn+jNRh10kwsLS7Oz+4ldgdHID8G6V4Z01aG/XS7XfX6Lxl" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;SalesOrderHeader&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
@@ -302,7 +302,7 @@
     <elementParameter field="TEXT" name="DB_SCHEMA" value="&quot;SalesLT&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:9R28WA1BsLmqxSi0V/saTq9u5YH1aC+tAmLV0YmWlitTPTsg5jLo" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Fox+9NmJUFOOWlsM4kSuQN6Rd7t24nYLT+VvZwpDkslvtkpxKeqm" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;SalesOrderDetail&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
@@ -442,7 +442,7 @@
     <elementParameter field="TEXT" name="DB_SCHEMA" value="&quot;SalesLT&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Aet6tzA5gksASnOYkwnkUss1NTASt92sVXwV0z/OQLrRS/gEJmRt" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:cplJeoYjpsX328BBN4NNPBO7HO/AwS3sHR6C2QkZcJ/qh10bYEfU" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;Customer&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
@@ -570,7 +570,7 @@
     <elementParameter field="TEXT" name="DB_SCHEMA" value="&quot;SalesLT&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:VE4BDIlmLMlMTg0PmxOSY5I0nfjU0mWe5ODrBuQElFMfBHDXa0e2" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:a9k4IPXBJGSwpwmj/apVFE5KeshyAiDr2gMVPto0c0dL/GQie1o4" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;Product&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
@@ -706,7 +706,7 @@
     <elementParameter field="TEXT" name="DB_SCHEMA" value="&quot;SalesLT&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:0UHrZ+y6B0YQyD9Xc5bAam7Z0hczdzjYvwV28OKrwm2PMov93aT3" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:8pVOke7KmQU/6h2u0fEQmid2pzmkZj9nLLCnBMvzM3rBylIzz2+3" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;CustomerAddress&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
@@ -794,7 +794,7 @@
     <elementParameter field="TEXT" name="DB_SCHEMA" value="&quot;SalesLT&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:GNWomhbmgRfKa2dlSIutAnMis4WzTNYeDib/Hu8DOYnVdwJhHr08" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:CW9vk4SHHtUQUqM6dug+t18PtC/B+gdLon1uVsWlXAvFLmmoiLhV" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;Address&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
@@ -907,7 +907,7 @@
     <elementParameter field="TEXT" name="DB_SCHEMA" value="&quot;SalesLT&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:cHJ7i6CQO5azZmbFEN6hHcn28tJyudMwk0hzwQtEWh3sDNqVqLXb" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:cItLuizmzfW5v0GB2Y0w34X8vszBEA28uxBQRBiy2QLJVHxjaiB+" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;ProductCategory&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
@@ -1007,7 +1007,7 @@
     <elementParameter field="TEXT" name="DB_SCHEMA" value="&quot;SalesLT&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Wr6gf8kC9hacdy0URL/n3KQWR/gk21mmyMmnjt1PC/gcUZsT314q" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:PD00zd5anx4clTDbfRShGinGsri7DiOybTXM3HZiahj8djlBHGZz" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;ProductDescription&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
@@ -1057,7 +1057,7 @@
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="CHECK" name="OS_LINE_SEPARATOR_AS_ROW_SEPARATOR" value="true" show="false"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
-    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;;&quot;"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;|&quot;"/>
     <elementParameter field="CHECK" name="APPEND" value="false"/>
     <elementParameter field="CHECK" name="INCLUDEHEADER" value="true"/>
     <elementParameter field="CHECK" name="COMPRESS" value="false"/>
@@ -1107,13 +1107,13 @@
     <elementParameter field="TEXT" name="DB_SCHEMA" value="&quot;SalesLT&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:axVjH8cJ1T7PMYEumw2oO0hFUAFZ60nWtwwDkZQscKLQ4fJ/7eYy" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:VJ5AbLvmGUX6f2+G9a3alIQuszGOO8EOs0++DSjB/lDRaFguwkuR" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;ProductModel&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:QUERYSTORE_TYPE" value="BUILT_IN"/>
     <elementParameter field="GUESS_SCHEMA" name="GUESS_SCHEMA" value="&quot;&quot;"/>
-    <elementParameter field="MEMO_SQL" name="QUERY" value="&quot;SELECT SalesLT.ProductModel.ProductModelID,&#xA;        SalesLT.ProductModel.Name,&#xA;&#x9;&#x9;SalesLT.ProductModel.CatalogDescription,&#xA;&#x9;&#x9;SalesLT.ProductModel.rowguid,&#xA;&#x9;&#x9;SalesLT.ProductModel.ModifiedDate&#xA;FROM&#x9;SalesLT.ProductModel&quot;"/>
+    <elementParameter field="MEMO_SQL" name="QUERY" value="&quot;SELECT SalesLT.ProductModel.ProductModelID,&#xA;        SalesLT.ProductModel.Name,&#xA;&#x9;&#x9;SalesLT.ProductModel.rowguid,&#xA;&#x9;&#x9;SalesLT.ProductModel.ModifiedDate&#xA;FROM&#x9;SalesLT.ProductModel&quot;"/>
     <elementParameter field="LABEL" name="NOTE" value="This option only applies when deploying and running in the Talend Runtime" show="false"/>
     <elementParameter field="CHECK" name="SPECIFY_DATASOURCE_ALIAS" value="false" show="false"/>
     <elementParameter field="TEXT" name="DATASOURCE_ALIAS" value="&quot;&quot;" show="false"/>
@@ -1127,8 +1127,6 @@
       <elementValue elementRef="TRIM" value="false"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="Name"/>
       <elementValue elementRef="TRIM" value="false"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="CatalogDescription"/>
-      <elementValue elementRef="TRIM" value="false"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="rowguid"/>
       <elementValue elementRef="TRIM" value="false"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="ModifiedDate"/>
@@ -1139,7 +1137,6 @@
     <metadata connector="FLOW" name="tDBInput_9">
       <column comment="" defaultValue="" key="false" length="10" name="ProductModelID" nullable="false" pattern="" precision="0" sourceType="INT IDENTITY" type="id_Integer" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="50" name="Name" nullable="false" pattern="" precision="0" sourceType="NVARCHAR" type="id_String" originalLength="-1" usefulColumn="true"/>
-      <column comment="" key="false" length="1073741823" name="CatalogDescription" nullable="true" pattern="" precision="0" sourceType="NTEXT" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column comment="" defaultValue="" key="false" length="36" name="rowguid" nullable="false" pattern="" precision="0" sourceType="UNIQUEIDENTIFIER" type="id_Object" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="23" name="ModifiedDate" nullable="false" pattern="&quot;yyyy-MM-dd'T'HH:mm:ss&quot;" precision="3" sourceType="DATETIME" type="id_Date" originalLength="-1" usefulColumn="true"/>
     </metadata>
@@ -1152,7 +1149,7 @@
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="CHECK" name="OS_LINE_SEPARATOR_AS_ROW_SEPARATOR" value="true" show="false"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
-    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;;&quot;"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;|&quot;"/>
     <elementParameter field="CHECK" name="APPEND" value="false"/>
     <elementParameter field="CHECK" name="INCLUDEHEADER" value="true"/>
     <elementParameter field="CHECK" name="COMPRESS" value="false"/>
@@ -1177,7 +1174,6 @@
     <metadata connector="FLOW" name="tFileOutputDelimited_9">
       <column comment="" defaultValue="" key="false" length="10" name="ProductModelID" nullable="false" pattern="" precision="0" sourceType="INT IDENTITY" type="id_Integer" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="50" name="Name" nullable="false" pattern="" precision="0" sourceType="NVARCHAR" type="id_String" originalLength="-1" usefulColumn="true"/>
-      <column comment="" key="false" length="1073741823" name="CatalogDescription" nullable="true" pattern="" precision="0" sourceType="NTEXT" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column comment="" defaultValue="" key="false" length="36" name="rowguid" nullable="false" pattern="" precision="0" sourceType="UNIQUEIDENTIFIER" type="id_Object" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="23" name="ModifiedDate" nullable="false" pattern="&quot;yyyy-MM-dd'T'HH:mm:ss&quot;" precision="3" sourceType="DATETIME" type="id_Date" originalLength="-1" usefulColumn="true"/>
     </metadata>
@@ -1195,7 +1191,7 @@
     <elementParameter field="TEXT" name="DB_SCHEMA" value="&quot;SalesLT&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;AdventureWorks&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;sqlfamily&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:qs8oLx+4HexUog4DwL2rkgsOViIUykVHV8l+WP0vC8XSUJt6K0KU" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:T49Oao9Ui7Ffh/8vQvbtZp5U0ytGapzNSKnE7Cz0usY2MAwIm2d8" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;ProductModelDescription&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>

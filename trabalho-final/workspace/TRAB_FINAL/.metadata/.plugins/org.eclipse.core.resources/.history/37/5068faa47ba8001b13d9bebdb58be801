@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_z4v_caaCEeulP9Ax7Jvlug" id="_MQboIKhIEeu3ZL1a8k-ZKw" label="Curated_DS_Data" description="Cria um job para popular a camada acurada  report BI" version="0.1" statusCode="" item="_z4v_c6aCEeulP9Ax7Jvlug" displayName="Curated_DS_Data">
+    <author href="../talend.project#_OCXa8Z-kEeukHbwRkQ6IOQ"/>
+    <additionalProperties xmi:id="_z49a0KaCEeulP9Ax7Jvlug" key="created_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_z49a0aaCEeulP9Ax7Jvlug" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_z49a0qaCEeulP9Ax7Jvlug" key="created_date" value="2021-04-28T14:35:58.014-0300"/>
+    <additionalProperties xmi:id="_z49a06aCEeulP9Ax7Jvlug" key="modified_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_z49a1KaCEeulP9Ax7Jvlug" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_z49a1aaCEeulP9Ax7Jvlug" key="modified_date" value="2021-04-28T19:40:22.450-0400"/>
+    <additionalProperties xmi:id="_-QwDMKgxEeuxJar_LvPwYQ" key="import_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_-QwDMagxEeuxJar_LvPwYQ" key="import_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_-QwqQKgxEeuxJar_LvPwYQ" key="import_date" value="2021-04-28T19:29:49.292-0400"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_MRn68KhIEeu3ZL1a8k-ZKw" path="" locked="true" lockDate="2021-04-28T19:32:30.360-0400">
+    <locker href="../talend.project#_OCXa8Z-kEeukHbwRkQ6IOQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_z4v_c6aCEeulP9Ax7Jvlug" property="_z4v_caaCEeulP9Ax7Jvlug" state="_MRn68KhIEeu3ZL1a8k-ZKw">
+    <process href="Curated_DS_Data_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

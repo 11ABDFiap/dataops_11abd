@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_zYKFkKF5EeuMPq56Q4-7vg" id="_zYIQYKF5EeuMPq56Q4-7vg" label="Harmonized_Data" purpose="Create a layer to cleansed data layer raw" description="Handler dataset input from raw and transform data do next layer" version="0.1" statusCode="" item="_zYKFkqF5EeuMPq56Q4-7vg" displayName="Harmonized_Data">
+    <author href="../talend.project#_OCXa8Z-kEeukHbwRkQ6IOQ"/>
+    <additionalProperties xmi:id="_zYL6wKF5EeuMPq56Q4-7vg" key="created_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_zYL6waF5EeuMPq56Q4-7vg" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_zYL6wqF5EeuMPq56Q4-7vg" key="created_date" value="2021-04-19T22:43:27.596-0300"/>
+    <additionalProperties xmi:id="_zYMh0KF5EeuMPq56Q4-7vg" key="modified_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_zYMh0aF5EeuMPq56Q4-7vg" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_zYMh0qF5EeuMPq56Q4-7vg" key="modified_date" value="2021-04-28T14:48:53.911-0300"/>
+    <additionalProperties xmi:id="_-RpbEKgxEeuxJar_LvPwYQ" key="import_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_-RpbEagxEeuxJar_LvPwYQ" key="import_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_-RpbEqgxEeuxJar_LvPwYQ" key="import_date" value="2021-04-28T14:27:10.409-0300"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_zYKFkaF5EeuMPq56Q4-7vg" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_zYKFkqF5EeuMPq56Q4-7vg" property="_zYKFkKF5EeuMPq56Q4-7vg" state="_zYKFkaF5EeuMPq56Q4-7vg">
+    <process href="Harmonized_Data_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

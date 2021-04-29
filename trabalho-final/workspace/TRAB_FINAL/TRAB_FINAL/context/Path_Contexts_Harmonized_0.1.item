@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_jACAYKY2EeudGJI5D9rvsw" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_jACAYaY2EeudGJI5D9rvsw" comment="" name="SalesOrderHeader_Harmonized" prompt="SalesOrderHeader_Harmonized?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\SalesOrderHeader.csv"/>
+    <contextParameter xmi:id="_jACAYqY2EeudGJI5D9rvsw" comment="" name="SalesOrderDetail_Harmonized" prompt="SalesOrderDetail_Harmonized?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\SalesOrderDetail.csv"/>
+    <contextParameter xmi:id="_NAl4IKY3EeudGJI5D9rvsw" comment="" name="Product_Harmonized" prompt="Product_Harmonized?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\Product.csv"/>
+    <contextParameter xmi:id="_NAl4IaY3EeudGJI5D9rvsw" comment="" name="Customer_Harmonized" prompt="Customer_Harmonized?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\Customer.csv"/>
+    <contextParameter xmi:id="_pFCaUKY3EeudGJI5D9rvsw" comment="" name="CustomerAddress_Harmonized" prompt="CustomerAddress_Harmonized?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\CustomerAddress.csv"/>
+    <contextParameter xmi:id="_pFCaUaY3EeudGJI5D9rvsw" comment="" name="Address_Harmonized" prompt="Address_Harmonized?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\Address.csv"/>
+    <contextParameter xmi:id="_GMIFQKY4EeudGJI5D9rvsw" comment="" name="ProductCategory_Harmonized" prompt="ProductCategory_Harmonized?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\ProductCategory.csv"/>
+    <contextParameter xmi:id="_GMIFQaY4EeudGJI5D9rvsw" comment="" name="ProductDescription_Harmonized" prompt="ProductDescription_Harmonized?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\ProductDescription.csv"/>
+    <contextParameter xmi:id="_awtjoKY4EeudGJI5D9rvsw" comment="" name="ProductModel_Harmonized" prompt="ProductModel_Harmonized?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\ProductModel.csv"/>
+    <contextParameter xmi:id="_obmmUKY4EeudGJI5D9rvsw" comment="" name="ProductModelProductDescription_Harmonized" prompt="ProductModelProductDescription_Harmonized?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\ProductModelProductDescription.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_jACAY6Y2EeudGJI5D9rvsw" confirmationNeeded="false" name="Linux">
+    <contextParameter xmi:id="_jACAZKY2EeudGJI5D9rvsw" comment="" name="SalesOrderHeader_Harmonized" prompt="SalesOrderHeader_Harmonized?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/SalesOrderHeader.csv"/>
+    <contextParameter xmi:id="_jACAZaY2EeudGJI5D9rvsw" comment="" name="SalesOrderDetail_Harmonized" prompt="SalesOrderDetail_Harmonized?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/SalesOrderDetail.csv"/>
+    <contextParameter xmi:id="_NAl4IqY3EeudGJI5D9rvsw" comment="" name="Product_Harmonized" prompt="Product_Harmonized?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/Product.csv"/>
+    <contextParameter xmi:id="_NAl4I6Y3EeudGJI5D9rvsw" comment="" name="Customer_Harmonized" prompt="Customer_Harmonized?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/Customer.csv"/>
+    <contextParameter xmi:id="_pFCaUqY3EeudGJI5D9rvsw" comment="" name="CustomerAddress_Harmonized" prompt="CustomerAddress_Harmonized?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/CustomerAddress.csv"/>
+    <contextParameter xmi:id="_pFCaU6Y3EeudGJI5D9rvsw" comment="" name="Address_Harmonized" prompt="Address_Harmonized?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/Address.csv"/>
+    <contextParameter xmi:id="_GMIFQqY4EeudGJI5D9rvsw" comment="" name="ProductCategory_Harmonized" prompt="ProductCategory_Harmonized?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/ProductCategory.csv"/>
+    <contextParameter xmi:id="_GMIFQ6Y4EeudGJI5D9rvsw" comment="" name="ProductDescription_Harmonized" prompt="ProductDescription_Harmonized?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/ProductDescription.csv"/>
+    <contextParameter xmi:id="_awtjoaY4EeudGJI5D9rvsw" comment="" name="ProductModel_Harmonized" prompt="ProductModel_Harmonized?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/ProductModel.csv"/>
+    <contextParameter xmi:id="_obmmUaY4EeudGJI5D9rvsw" comment="" name="ProductModelProductDescription_Harmonized" prompt="ProductModelProductDescription_Harmonized?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/ProductModelProductDescription.csv"/>
+  </talendfile:ContextType>
+</xmi:XMI>

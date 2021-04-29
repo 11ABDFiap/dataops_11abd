@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_jACAZqY2EeudGJI5D9rvsw" id="_FlqFsKY5EeudGJI5D9rvsw" label="Path_Contexts_Harmonized" version="0.1" statusCode="" item="_jACAaKY2EeudGJI5D9rvsw" displayName="Path_Contexts_Harmonized">
+    <author href="../talend.project#_OCXa8Z-kEeukHbwRkQ6IOQ"/>
+    <additionalProperties xmi:id="_jAJ8MKY2EeudGJI5D9rvsw" key="created_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_jAJ8MaY2EeudGJI5D9rvsw" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_jAJ8MqY2EeudGJI5D9rvsw" key="created_date" value="2021-04-25T23:42:48.409-0300"/>
+    <additionalProperties xmi:id="_jAJ8M6Y2EeudGJI5D9rvsw" key="modified_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_jAJ8NKY2EeudGJI5D9rvsw" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_jAJ8NaY2EeudGJI5D9rvsw" key="modified_date" value="2021-04-28T13:59:17.987-0300"/>
+    <additionalProperties xmi:id="_-QgyoKgxEeuxJar_LvPwYQ" key="import_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_-QgyoagxEeuxJar_LvPwYQ" key="import_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_-QgyoqgxEeuxJar_LvPwYQ" key="import_date" value="2021-04-28T14:27:10.409-0300"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_FmZskKY5EeudGJI5D9rvsw" path=""/>
+  <TalendProperties:ContextItem xmi:id="_jACAaKY2EeudGJI5D9rvsw" property="_jACAZqY2EeudGJI5D9rvsw" state="_FmZskKY5EeudGJI5D9rvsw" defaultContext="Default">
+    <context href="Path_Contexts_Harmonized_0.1.item#_jACAYKY2EeudGJI5D9rvsw"/>
+    <context href="Path_Contexts_Harmonized_0.1.item#_jACAY6Y2EeudGJI5D9rvsw"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

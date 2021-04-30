@@ -1,0 +1,21 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="TalendDate.getPartOfDate(&quot;MONTH&quot;, row7.OrderDate)">
+  <variables name="row7.SalesOrderID" value="0" talendType="id_Integer"/>
+  <variables name="row7.OrderDate" value="null" talendType="id_Date"/>
+  <variables name="row7.CustomerID" value="0" talendType="id_Integer"/>
+  <variables name="row8.SalesOrderID" value="0" talendType="id_Integer"/>
+  <variables name="row8.SalesOrderDetailID" value="0" talendType="id_Integer"/>
+  <variables name="row8.OrderQty" value="0" talendType="id_Short"/>
+  <variables name="row8.ProductID" value="0" talendType="id_Integer"/>
+  <variables name="row8.UnitPrice" value="0" talendType="id_Double"/>
+  <variables name="row8.UnitPriceDiscount" value="0" talendType="id_Double"/>
+  <variables name="row9.ProductID" value="0" talendType="id_Integer"/>
+  <variables name="row9.Name" value="null" talendType="id_String"/>
+  <variables name="row4.CustomerID" value="0" talendType="id_Integer"/>
+  <variables name="row4.AddressID" value="0" talendType="id_Integer"/>
+  <variables name="row10.AddressID" value="0" talendType="id_Integer"/>
+  <variables name="row10.StateProvince" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row10.CountryRegion" value="null" talendType="id_String" nullable="true"/>
+  <variables name="StringHandling.LEFT(StringHandling.CHANGE(Var.OrderDateStr   ,&quot;-&quot;,&quot;&quot;), 4)" value="null" talendType="id_String" nullable="true"/>
+  <variables name="TalendDate.formatDate(&quot;yy-MM-dd&quot;, row7.OrderDate) " value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>

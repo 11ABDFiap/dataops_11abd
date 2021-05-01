@@ -24,6 +24,8 @@ https://danielkummer.github.io/git-flow-cheatsheet
 
 ## Talend Instructions
 
-Seguir as intruções abaixo antes de executar os jobs de ETL do Talend.
-1 - Alterar o context LocalPath, passar o caminho onde estará a pasta do git.
-2 - Alterar o environment de acordo com o sistema operacional utilizado Windows (Default) ou Linux.
+Seguir as intruções abaixo antes de executar os jobs de ETL do Talend. \
+1 - Alterar o context LocalPath, passar o caminho onde estará a pasta do git. \
+![Image 1](https://github.com/11ABDFiap/dataops_11abd/blob/main/trabalho-final/docs/pictures/img1.png?raw=true) \
+2 - Alterar o environment de acordo com o sistema operacional utilizado Windows (Default) ou Linux. \
+![Image 2](https://github.com/11ABDFiap/dataops_11abd/blob/main/trabalho-final/docs/pictures/img2.png?raw=true) \

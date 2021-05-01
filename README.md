@@ -21,3 +21,9 @@ Git-flow:
 
 https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow \
 https://danielkummer.github.io/git-flow-cheatsheet
+
+## Talend Instructions
+
+Seguir as intruções abaixo antes de executar os jobs de ETL do Talend.
+1 - Alterar o context LocalPath, passar o caminho onde estará a pasta do git.
+2 - Alterar o environment de acordo com o sistema operacional utilizado Windows (Default) ou Linux.

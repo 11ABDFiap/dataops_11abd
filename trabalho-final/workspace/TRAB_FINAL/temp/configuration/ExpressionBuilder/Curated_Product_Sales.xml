@@ -1,0 +1,39 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="TalendDate.getPartOfDate(&quot;WEEK&quot;,row7.OrderDate) + 1">
+  <variables name="row4.SalesOrderID" value="0" talendType="id_Integer"/>
+  <variables name="row4.SalesOrderDetailID" value="0" talendType="id_Integer"/>
+  <variables name="row4.OrderQty" value="0" talendType="id_Short"/>
+  <variables name="row4.ProductID" value="0" talendType="id_Integer"/>
+  <variables name="row4.UnitPrice" value="0" talendType="id_Double"/>
+  <variables name="row4.UnitPriceDiscount" value="0" talendType="id_Double"/>
+  <variables name="row7.SalesOrderID" value="0" talendType="id_Integer"/>
+  <variables name="row7.OrderDate" value="null" talendType="id_Date"/>
+  <variables name="row7.CustomerID" value="0" talendType="id_Integer"/>
+  <variables name="row8.ProductID" value="0" talendType="id_Integer"/>
+  <variables name="row8.Name" value="null" talendType="id_String"/>
+  <variables name="row8.Color" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row8.StandardCost" value="0" talendType="id_Double"/>
+  <variables name="row8.ListPrice" value="0" talendType="id_Double"/>
+  <variables name="row8.Size" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row8.Weight" value="null" talendType="id_BigDecimal" nullable="true"/>
+  <variables name="row8.ProductCategoryID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row8.ProductModelID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row8.DiscontinuedDate" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row8.SellStartDate" value="null" talendType="id_Date"/>
+  <variables name="row8.SellEndDate" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row9.CustomerID" value="0" talendType="id_Integer"/>
+  <variables name="row9.AddressID" value="0" talendType="id_Integer"/>
+  <variables name="row10.AddressID" value="0" talendType="id_Integer"/>
+  <variables name="row10.StateProvince" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row10.CountryRegion" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row14.CustomerID" value="0" talendType="id_Integer"/>
+  <variables name="row14.SalesPerson" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.ProductDescriptionID" value="0" talendType="id_Integer"/>
+  <variables name="row16.Description" value="null" talendType="id_String"/>
+  <variables name="row18.ProductCategoryID" value="0" talendType="id_Integer"/>
+  <variables name="row20.ProductModelID" value="0" talendType="id_Integer"/>
+  <variables name="row20.Name" value="null" talendType="id_String"/>
+  <variables name="row22.ProductModelID" value="0" talendType="id_Integer"/>
+  <variables name="row22.ProductDescriptionID" value="0" talendType="id_Integer"/>
+  <variables name="TalendDate.getPartOfDate(&quot;WEEK&quot;,row7.OrderDate) " value="0" talendType="id_Integer"/>
+</expression:EMFExpression>

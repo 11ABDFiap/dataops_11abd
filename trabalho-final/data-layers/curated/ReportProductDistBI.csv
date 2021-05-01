@@ -1,0 +1,294 @@
+OrderQty;OrderDate;Name;StateProvince;CountryRegion;TotalDue;SalesMonth
+28;2008-06-01T00:00:00;AWC Logo Cap;California;United States;222216.3069;2008-06
+4;2008-06-01T00:00:00;AWC Logo Cap;Colorado;United States;14017.9083;2008-06
+17;2008-06-01T00:00:00;AWC Logo Cap;England;United Kingdom;304321.8443;2008-06
+3;2008-06-01T00:00:00;AWC Logo Cap;New Mexico;United States;15275.1977;2008-06
+23;2008-06-01T00:00:00;Bike Wash - Dissolver;California;United States;218461.3336;2008-06
+31;2008-06-01T00:00:00;Bike Wash - Dissolver;England;United Kingdom;304321.8443;2008-06
+1;2008-06-01T00:00:00;Bike Wash - Dissolver;New Mexico;United States;15275.1977;2008-06
+3;2008-06-01T00:00:00;Chain;California;United States;45992.3665;2008-06
+4;2008-06-01T00:00:00;Chain;England;United Kingdom;179296.9458;2008-06
+1;2008-06-01T00:00:00;Chain;New Mexico;United States;15275.1977;2008-06
+20;2008-06-01T00:00:00;Classic Vest, M;California;United States;218461.3336;2008-06
+14;2008-06-01T00:00:00;Classic Vest, M;England;United Kingdom;304321.8443;2008-06
+33;2008-06-01T00:00:00;Classic Vest, S;California;United States;222027.7565;2008-06
+1;2008-06-01T00:00:00;Classic Vest, S;Colorado;United States;14017.9083;2008-06
+53;2008-06-01T00:00:00;Classic Vest, S;England;United Kingdom;304930.0209;2008-06
+4;2008-06-01T00:00:00;Front Brakes;California;United States;93710.1299;2008-06
+1;2008-06-01T00:00:00;Front Brakes;Colorado;United States;14017.9083;2008-06
+5;2008-06-01T00:00:00;Front Brakes;England;United Kingdom;179296.9458;2008-06
+2;2008-06-01T00:00:00;Front Brakes;New Mexico;United States;15275.1977;2008-06
+3;2008-06-01T00:00:00;Front Derailleur;California;United States;89955.1566;2008-06
+8;2008-06-01T00:00:00;Front Derailleur;England;United Kingdom;179296.9458;2008-06
+1;2008-06-01T00:00:00;Front Derailleur;New Mexico;United States;15275.1977;2008-06
+1;2008-06-01T00:00:00;Front Derailleur;Utah;United States;665.4251;2008-06
+7;2008-06-01T00:00:00;HL Bottom Bracket;California;United States;89955.1566;2008-06
+8;2008-06-01T00:00:00;HL Bottom Bracket;England;United Kingdom;179296.9458;2008-06
+3;2008-06-01T00:00:00;HL Crankset;California;United States;89955.1566;2008-06
+9;2008-06-01T00:00:00;HL Crankset;England;United Kingdom;179296.9458;2008-06
+3;2008-06-01T00:00:00;HL Mountain Frame - Black, 38;California;United States;45992.3665;2008-06
+4;2008-06-01T00:00:00;HL Mountain Frame - Black, 38;England;United Kingdom;108597.9536;2008-06
+3;2008-06-01T00:00:00;HL Mountain Frame - Black, 42;California;United States;48661.6848;2008-06
+9;2008-06-01T00:00:00;HL Mountain Frame - Black, 42;England;United Kingdom;190582.214;2008-06
+8;2008-06-01T00:00:00;HL Mountain Frame - Silver, 38;California;United States;127827.3491;2008-06
+8;2008-06-01T00:00:00;HL Mountain Frame - Silver, 38;England;United Kingdom;190582.214;2008-06
+6;2008-06-01T00:00:00;HL Mountain Frame - Silver, 42;England;United Kingdom;111309.3634;2008-06
+3;2008-06-01T00:00:00;HL Mountain Frame - Silver, 46;California;United States;45992.3665;2008-06
+7;2008-06-01T00:00:00;HL Mountain Frame - Silver, 46;England;United Kingdom;108597.9536;2008-06
+1;2008-06-01T00:00:00;HL Mountain Handlebars;California;United States;81834.9826;2008-06
+2;2008-06-01T00:00:00;HL Mountain Handlebars;England;United Kingdom;81984.2604;2008-06
+5;2008-06-01T00:00:00;HL Mountain Pedal;California;United States;130496.6674;2008-06
+7;2008-06-01T00:00:00;HL Mountain Pedal;England;United Kingdom;190582.214;2008-06
+3;2008-06-01T00:00:00;HL Mountain Seat/Saddle;California;United States;127827.3491;2008-06
+4;2008-06-01T00:00:00;HL Mountain Seat/Saddle;England;United Kingdom;148129.5621;2008-06
+4;2008-06-01T00:00:00;HL Road Frame - Black, 44;California;United States;92663.5609;2008-06
+2;2008-06-01T00:00:00;HL Road Frame - Black, 44;England;United Kingdom;86222.8072;2008-06
+2;2008-06-01T00:00:00;HL Road Frame - Red, 44;California;United States;92663.5609;2008-06
+1;2008-06-01T00:00:00;HL Road Frame - Red, 44;England;United Kingdom;86222.8072;2008-06
+3;2008-06-01T00:00:00;HL Road Frame - Red, 62;England;United Kingdom;87393.3448;2008-06
+1;2008-06-01T00:00:00;HL Road Handlebars;California;United States;92663.5609;2008-06
+3;2008-06-01T00:00:00;HL Road Handlebars;England;United Kingdom;184361.0203;2008-06
+5;2008-06-01T00:00:00;HL Road Pedal;California;United States;95025.2012;2008-06
+9;2008-06-01T00:00:00;HL Road Pedal;England;United Kingdom;184361.0203;2008-06
+2;2008-06-01T00:00:00;HL Road Seat/Saddle;England;United Kingdom;86222.8072;2008-06
+1;2008-06-01T00:00:00;HL Touring Frame - Blue, 50;California;United States;63686.2708;2008-06
+7;2008-06-01T00:00:00;HL Touring Frame - Blue, 54;California;United States;107649.0609;2008-06
+2;2008-06-01T00:00:00;HL Touring Frame - Blue, 60;California;United States;107649.0609;2008-06
+1;2008-06-01T00:00:00;HL Touring Frame - Blue, 60;England;United Kingdom;119960.824;2008-06
+5;2008-06-01T00:00:00;HL Touring Frame - Yellow, 54;England;United Kingdom;190659.8162;2008-06
+4;2008-06-01T00:00:00;HL Touring Frame - Yellow, 60;California;United States;107649.0609;2008-06
+8;2008-06-01T00:00:00;HL Touring Frame - Yellow, 60;England;United Kingdom;119960.824;2008-06
+1;2008-06-01T00:00:00;HL Touring Handlebars;California;United States;63686.2708;2008-06
+2;2008-06-01T00:00:00;HL Touring Seat/Saddle;California;United States;107649.0609;2008-06
+6;2008-06-01T00:00:00;HL Touring Seat/Saddle;England;United Kingdom;190702.8599;2008-06
+9;2008-06-01T00:00:00;Half-Finger Gloves, L;California;United States;92663.5609;2008-06
+10;2008-06-01T00:00:00;Half-Finger Gloves, L;England;United Kingdom;194820.7608;2008-06
+10;2008-06-01T00:00:00;Half-Finger Gloves, M;California;United States;218461.3336;2008-06
+16;2008-06-01T00:00:00;Half-Finger Gloves, M;England;United Kingdom;304321.8443;2008-06
+2;2008-06-01T00:00:00;Half-Finger Gloves, S;California;United States;92663.5609;2008-06
+10;2008-06-01T00:00:00;Half-Finger Gloves, S;England;United Kingdom;206183.6312;2008-06
+10;2008-06-01T00:00:00;Hitch Rack - 4-Bike;California;United States;221755.1097;2008-06
+22;2008-06-01T00:00:00;Hitch Rack - 4-Bike;England;United Kingdom;304930.0209;2008-06
+23;2008-06-01T00:00:00;Hydration Pack - 70 oz.;California;United States;218461.3336;2008-06
+27;2008-06-01T00:00:00;Hydration Pack - 70 oz.;England;United Kingdom;346774.4962;2008-06
+1;2008-06-01T00:00:00;LL Bottom Bracket;California;United States;43962.7901;2008-06
+6;2008-06-01T00:00:00;LL Bottom Bracket;England;United Kingdom;179296.9458;2008-06
+3;2008-06-01T00:00:00;LL Crankset;California;United States;45992.3665;2008-06
+7;2008-06-01T00:00:00;LL Crankset;England;United Kingdom;179296.9458;2008-06
+4;2008-06-01T00:00:00;LL Mountain Frame - Black, 42;California;United States;45992.3665;2008-06
+5;2008-06-01T00:00:00;LL Mountain Frame - Black, 42;England;United Kingdom;108597.9536;2008-06
+3;2008-06-01T00:00:00;LL Mountain Frame - Black, 44;California;United States;127827.3491;2008-06
+9;2008-06-01T00:00:00;LL Mountain Frame - Black, 44;England;United Kingdom;190582.214;2008-06
+1;2008-06-01T00:00:00;LL Mountain Frame - Black, 48;California;United States;81834.9826;2008-06
+3;2008-06-01T00:00:00;LL Mountain Frame - Black, 48;England;United Kingdom;190582.214;2008-06
+4;2008-06-01T00:00:00;LL Mountain Frame - Silver, 40;California;United States;48661.6848;2008-06
+5;2008-06-01T00:00:00;LL Mountain Frame - Silver, 40;England;United Kingdom;148129.5621;2008-06
+8;2008-06-01T00:00:00;LL Mountain Frame - Silver, 42;England;United Kingdom;148129.5621;2008-06
+2;2008-06-01T00:00:00;LL Mountain Frame - Silver, 44;California;United States;81834.9826;2008-06
+7;2008-06-01T00:00:00;LL Mountain Frame - Silver, 44;England;United Kingdom;190582.214;2008-06
+2;2008-06-01T00:00:00;LL Mountain Frame - Silver, 52;California;United States;45992.3665;2008-06
+1;2008-06-01T00:00:00;LL Mountain Frame - Silver, 52;England;United Kingdom;39531.6085;2008-06
+2;2008-06-01T00:00:00;LL Mountain Handlebars;California;United States;48661.6848;2008-06
+5;2008-06-01T00:00:00;LL Mountain Handlebars;England;United Kingdom;148129.5621;2008-06
+4;2008-06-01T00:00:00;LL Mountain Pedal;California;United States;81834.9826;2008-06
+8;2008-06-01T00:00:00;LL Mountain Pedal;England;United Kingdom;190582.214;2008-06
+2;2008-06-01T00:00:00;LL Mountain Seat/Saddle;California;United States;81834.9826;2008-06
+4;2008-06-01T00:00:00;LL Mountain Seat/Saddle;England;United Kingdom;148129.5621;2008-06
+7;2008-06-01T00:00:00;LL Road Frame - Black, 52;California;United States;96286.6452;2008-06
+4;2008-06-01T00:00:00;LL Road Frame - Black, 52;England;United Kingdom;184361.0203;2008-06
+6;2008-06-01T00:00:00;LL Road Frame - Black, 58;California;United States;92663.5609;2008-06
+3;2008-06-01T00:00:00;LL Road Frame - Black, 58;England;United Kingdom;86222.8072;2008-06
+12;2008-06-01T00:00:00;LL Road Pedal;California;United States;101992.3022;2008-06
+8;2008-06-01T00:00:00;LL Road Pedal;England;United Kingdom;184361.0203;2008-06
+1;2008-06-01T00:00:00;LL Road Pedal;Nevada;United States;7330.8972;2008-06
+2;2008-06-01T00:00:00;LL Touring Frame - Blue, 50;England;United Kingdom;119960.824;2008-06
+3;2008-06-01T00:00:00;LL Touring Frame - Blue, 54;England;United Kingdom;119960.824;2008-06
+1;2008-06-01T00:00:00;LL Touring Frame - Yellow, 44;California;United States;63686.2708;2008-06
+2;2008-06-01T00:00:00;LL Touring Frame - Yellow, 44;England;United Kingdom;119960.824;2008-06
+1;2008-06-01T00:00:00;LL Touring Frame - Yellow, 50;California;United States;63686.2708;2008-06
+1;2008-06-01T00:00:00;LL Touring Frame - Yellow, 50;England;United Kingdom;119960.824;2008-06
+1;2008-06-01T00:00:00;LL Touring Frame - Yellow, 62;California;United States;43962.7901;2008-06
+34;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, L;California;United States;268481.3202;2008-06
+15;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, L;England;United Kingdom;304321.8443;2008-06
+2;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, L;New Mexico;United States;15275.1977;2008-06
+14;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, M;California;United States;221130.6519;2008-06
+12;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, M;England;United Kingdom;304321.8443;2008-06
+4;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, XL;California;United States;92663.5609;2008-06
+10;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, XL;England;United Kingdom;206183.6312;2008-06
+5;2008-06-01T00:00:00;ML Mountain Frame-W - Silver, 40;California;United States;127827.3491;2008-06
+7;2008-06-01T00:00:00;ML Mountain Frame-W - Silver, 40;England;United Kingdom;148129.5621;2008-06
+5;2008-06-01T00:00:00;ML Mountain Frame-W - Silver, 42;California;United States;127827.3491;2008-06
+6;2008-06-01T00:00:00;ML Mountain Frame-W - Silver, 42;England;United Kingdom;151050.6055;2008-06
+3;2008-06-01T00:00:00;ML Mountain Handlebars;California;United States;127827.3491;2008-06
+9;2008-06-01T00:00:00;ML Mountain Handlebars;England;United Kingdom;190582.214;2008-06
+1;2008-06-01T00:00:00;ML Mountain Pedal;California;United States;81834.9826;2008-06
+5;2008-06-01T00:00:00;ML Mountain Pedal;England;United Kingdom;150840.9719;2008-06
+10;2008-06-01T00:00:00;ML Mountain Seat/Saddle;California;United States;46265.0133;2008-06
+6;2008-06-01T00:00:00;ML Mountain Seat/Saddle;England;United Kingdom;108597.9536;2008-06
+2;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 38;California;United States;93636.3459;2008-06
+2;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 38;England;United Kingdom;86222.8072;2008-06
+5;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 44;California;United States;93925.0049;2008-06
+7;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 44;England;United Kingdom;184361.0203;2008-06
+8;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 48;California;United States;95997.9862;2008-06
+4;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 48;England;United Kingdom;86222.8072;2008-06
+9;2008-06-01T00:00:00;ML Road Pedal;California;United States;95025.2012;2008-06
+10;2008-06-01T00:00:00;ML Road Pedal;England;United Kingdom;184361.0203;2008-06
+10;2008-06-01T00:00:00;Mountain-200 Black, 38;California;United States;127827.3491;2008-06
+16;2008-06-01T00:00:00;Mountain-200 Black, 38;England;United Kingdom;192810.2706;2008-06
+12;2008-06-01T00:00:00;Mountain-200 Black, 42;California;United States;127827.3491;2008-06
+15;2008-06-01T00:00:00;Mountain-200 Black, 42;England;United Kingdom;151050.6055;2008-06
+4;2008-06-01T00:00:00;Mountain-200 Black, 46;California;United States;127827.3491;2008-06
+10;2008-06-01T00:00:00;Mountain-200 Black, 46;England;United Kingdom;148129.5621;2008-06
+6;2008-06-01T00:00:00;Mountain-200 Silver, 38;California;United States;127827.3491;2008-06
+5;2008-06-01T00:00:00;Mountain-200 Silver, 38;England;United Kingdom;148129.5621;2008-06
+7;2008-06-01T00:00:00;Mountain-200 Silver, 42;California;United States;127827.3491;2008-06
+8;2008-06-01T00:00:00;Mountain-200 Silver, 42;England;United Kingdom;190582.214;2008-06
+7;2008-06-01T00:00:00;Mountain-200 Silver, 46;California;United States;127827.3491;2008-06
+6;2008-06-01T00:00:00;Mountain-200 Silver, 46;England;United Kingdom;148129.5621;2008-06
+3;2008-06-01T00:00:00;Mountain-400-W Silver, 38;California;United States;81834.9826;2008-06
+1;2008-06-01T00:00:00;Mountain-400-W Silver, 38;England;United Kingdom;39531.6085;2008-06
+3;2008-06-01T00:00:00;Mountain-400-W Silver, 40;California;United States;84504.3009;2008-06
+6;2008-06-01T00:00:00;Mountain-400-W Silver, 40;England;United Kingdom;153762.0153;2008-06
+2;2008-06-01T00:00:00;Mountain-400-W Silver, 42;California;United States;81834.9826;2008-06
+3;2008-06-01T00:00:00;Mountain-400-W Silver, 42;England;United Kingdom;42452.6519;2008-06
+4;2008-06-01T00:00:00;Mountain-400-W Silver, 46;California;United States;81834.9826;2008-06
+5;2008-06-01T00:00:00;Mountain-400-W Silver, 46;England;United Kingdom;81984.2604;2008-06
+1;2008-06-01T00:00:00;Mountain-500 Black, 40;California;United States;81834.9826;2008-06
+2;2008-06-01T00:00:00;Mountain-500 Black, 40;England;United Kingdom;42452.6519;2008-06
+3;2008-06-01T00:00:00;Mountain-500 Black, 42;England;United Kingdom;81984.2604;2008-06
+2;2008-06-01T00:00:00;Mountain-500 Black, 44;California;United States;81834.9826;2008-06
+3;2008-06-01T00:00:00;Mountain-500 Black, 44;England;United Kingdom;42452.6519;2008-06
+3;2008-06-01T00:00:00;Mountain-500 Black, 48;California;United States;81834.9826;2008-06
+9;2008-06-01T00:00:00;Mountain-500 Black, 48;England;United Kingdom;190582.214;2008-06
+1;2008-06-01T00:00:00;Mountain-500 Black, 52;California;United States;81834.9826;2008-06
+2;2008-06-01T00:00:00;Mountain-500 Black, 52;England;United Kingdom;42452.6519;2008-06
+4;2008-06-01T00:00:00;Mountain-500 Silver, 40;California;United States;81834.9826;2008-06
+7;2008-06-01T00:00:00;Mountain-500 Silver, 40;England;United Kingdom;193293.6238;2008-06
+5;2008-06-01T00:00:00;Mountain-500 Silver, 42;California;United States;81834.9826;2008-06
+7;2008-06-01T00:00:00;Mountain-500 Silver, 42;England;United Kingdom;190582.214;2008-06
+1;2008-06-01T00:00:00;Mountain-500 Silver, 44;California;United States;81834.9826;2008-06
+3;2008-06-01T00:00:00;Mountain-500 Silver, 44;England;United Kingdom;42452.6519;2008-06
+1;2008-06-01T00:00:00;Mountain-500 Silver, 48;California;United States;81834.9826;2008-06
+5;2008-06-01T00:00:00;Mountain-500 Silver, 48;England;United Kingdom;151050.6055;2008-06
+6;2008-06-01T00:00:00;Mountain-500 Silver, 52;California;United States;130496.6674;2008-06
+11;2008-06-01T00:00:00;Mountain-500 Silver, 52;England;United Kingdom;151050.6055;2008-06
+6;2008-06-01T00:00:00;Patch Kit/8 Patches;California;United States;92663.5609;2008-06
+14;2008-06-01T00:00:00;Patch Kit/8 Patches;England;United Kingdom;206183.6312;2008-06
+26;2008-06-01T00:00:00;Racing Socks, L;California;United States;96454.6134;2008-06
+12;2008-06-01T00:00:00;Racing Socks, L;England;United Kingdom;184406.2198;2008-06
+13;2008-06-01T00:00:00;Racing Socks, L;Nevada;United States;7330.8972;2008-06
+8;2008-06-01T00:00:00;Racing Socks, M;California;United States;5052.4965;2008-06
+4;2008-06-01T00:00:00;Racing Socks, M;England;United Kingdom;98138.2131;2008-06
+3;2008-06-01T00:00:00;Racing Socks, M;Nevada;United States;7330.8972;2008-06
+1;2008-06-01T00:00:00;Rear Brakes;England;United Kingdom;87.0851;2008-06
+3;2008-06-01T00:00:00;Rear Derailleur;California;United States;43962.7901;2008-06
+5;2008-06-01T00:00:00;Rear Derailleur;England;United Kingdom;108597.9536;2008-06
+3;2008-06-01T00:00:00;Road-250 Black, 44;California;United States;92663.5609;2008-06
+9;2008-06-01T00:00:00;Road-250 Black, 44;England;United Kingdom;184361.0203;2008-06
+12;2008-06-01T00:00:00;Road-250 Black, 48;England;United Kingdom;184361.0203;2008-06
+8;2008-06-01T00:00:00;Road-250 Black, 52;England;United Kingdom;184361.0203;2008-06
+3;2008-06-01T00:00:00;Road-250 Black, 58;England;United Kingdom;98138.2131;2008-06
+3;2008-06-01T00:00:00;Road-250 Red, 58;England;United Kingdom;98138.2131;2008-06
+7;2008-06-01T00:00:00;Road-350-W Yellow, 40;California;United States;99630.6619;2008-06
+10;2008-06-01T00:00:00;Road-350-W Yellow, 40;England;United Kingdom;184361.0203;2008-06
+3;2008-06-01T00:00:00;Road-350-W Yellow, 40;Nevada;United States;7330.8972;2008-06
+13;2008-06-01T00:00:00;Road-350-W Yellow, 42;California;United States;92663.5609;2008-06
+6;2008-06-01T00:00:00;Road-350-W Yellow, 42;England;United Kingdom;184361.0203;2008-06
+5;2008-06-01T00:00:00;Road-350-W Yellow, 44;England;United Kingdom;98138.2131;2008-06
+26;2008-06-01T00:00:00;Road-350-W Yellow, 48;California;United States;95957.337;2008-06
+14;2008-06-01T00:00:00;Road-350-W Yellow, 48;England;United Kingdom;184361.0203;2008-06
+2;2008-06-01T00:00:00;Road-350-W Yellow, 48;Nevada;United States;7330.8972;2008-06
+4;2008-06-01T00:00:00;Road-550-W Yellow, 38;California;United States;92663.5609;2008-06
+15;2008-06-01T00:00:00;Road-550-W Yellow, 38;England;United Kingdom;184361.0203;2008-06
+1;2008-06-01T00:00:00;Road-550-W Yellow, 40;California;United States;92663.5609;2008-06
+7;2008-06-01T00:00:00;Road-550-W Yellow, 40;England;United Kingdom;184361.0203;2008-06
+1;2008-06-01T00:00:00;Road-550-W Yellow, 42;California;United States;92663.5609;2008-06
+4;2008-06-01T00:00:00;Road-550-W Yellow, 42;England;United Kingdom;98138.2131;2008-06
+3;2008-06-01T00:00:00;Road-550-W Yellow, 44;England;United Kingdom;98138.2131;2008-06
+1;2008-06-01T00:00:00;Road-550-W Yellow, 48;California;United States;92663.5609;2008-06
+7;2008-06-01T00:00:00;Road-550-W Yellow, 48;England;United Kingdom;184361.0203;2008-06
+3;2008-06-01T00:00:00;Road-750 Black, 44;England;United Kingdom;98138.2131;2008-06
+9;2008-06-01T00:00:00;Road-750 Black, 48;California;United States;96336.8858;2008-06
+11;2008-06-01T00:00:00;Road-750 Black, 48;England;United Kingdom;184361.0203;2008-06
+1;2008-06-01T00:00:00;Road-750 Black, 48;Nevada;United States;7330.8972;2008-06
+8;2008-06-01T00:00:00;Road-750 Black, 52;California;United States;96336.8858;2008-06
+8;2008-06-01T00:00:00;Road-750 Black, 52;England;United Kingdom;184361.0203;2008-06
+4;2008-06-01T00:00:00;Road-750 Black, 58;California;United States;92663.5609;2008-06
+11;2008-06-01T00:00:00;Road-750 Black, 58;England;United Kingdom;184361.0203;2008-06
+23;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, L;California;United States;222216.3069;2008-06
+26;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, L;England;United Kingdom;304321.8443;2008-06
+2;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, L;New Mexico;United States;15275.1977;2008-06
+16;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, S;California;United States;221130.6519;2008-06
+15;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, S;England;United Kingdom;304321.8443;2008-06
+25;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, XL;California;United States;221755.1097;2008-06
+3;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, XL;Colorado;United States;14017.9083;2008-06
+29;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, XL;England;United Kingdom;304930.0209;2008-06
+22;2008-06-01T00:00:00;Sport-100 Helmet, Black;California;United States;218461.3336;2008-06
+29;2008-06-01T00:00:00;Sport-100 Helmet, Black;England;United Kingdom;304321.8443;2008-06
+29;2008-06-01T00:00:00;Sport-100 Helmet, Blue;California;United States;222134.6585;2008-06
+9;2008-06-01T00:00:00;Sport-100 Helmet, Blue;England;United Kingdom;304321.8443;2008-06
+15;2008-06-01T00:00:00;Sport-100 Helmet, Red;California;United States;218461.3336;2008-06
+20;2008-06-01T00:00:00;Sport-100 Helmet, Red;England;United Kingdom;412919.7979;2008-06
+2;2008-06-01T00:00:00;Touring-1000 Blue, 46;California;United States;43962.7901;2008-06
+1;2008-06-01T00:00:00;Touring-1000 Blue, 46;Colorado;United States;14017.9083;2008-06
+7;2008-06-01T00:00:00;Touring-1000 Blue, 46;England;United Kingdom;190659.8162;2008-06
+2;2008-06-01T00:00:00;Touring-1000 Blue, 46;New Mexico;United States;15275.1977;2008-06
+4;2008-06-01T00:00:00;Touring-1000 Blue, 50;California;United States;107649.0609;2008-06
+12;2008-06-01T00:00:00;Touring-1000 Blue, 50;England;United Kingdom;190659.8162;2008-06
+2;2008-06-01T00:00:00;Touring-1000 Blue, 54;California;United States;43962.7901;2008-06
+4;2008-06-01T00:00:00;Touring-1000 Blue, 54;England;United Kingdom;70698.9922;2008-06
+9;2008-06-01T00:00:00;Touring-1000 Blue, 60;California;United States;63686.2708;2008-06
+3;2008-06-01T00:00:00;Touring-1000 Blue, 60;Colorado;United States;14017.9083;2008-06
+13;2008-06-01T00:00:00;Touring-1000 Blue, 60;England;United Kingdom;190659.8162;2008-06
+1;2008-06-01T00:00:00;Touring-1000 Blue, 60;New Mexico;United States;15275.1977;2008-06
+5;2008-06-01T00:00:00;Touring-1000 Yellow, 46;California;United States;111404.0342;2008-06
+2;2008-06-01T00:00:00;Touring-1000 Yellow, 46;Colorado;United States;14017.9083;2008-06
+5;2008-06-01T00:00:00;Touring-1000 Yellow, 46;England;United Kingdom;190659.8162;2008-06
+2;2008-06-01T00:00:00;Touring-1000 Yellow, 50;California;United States;107649.0609;2008-06
+3;2008-06-01T00:00:00;Touring-1000 Yellow, 50;England;United Kingdom;190659.8162;2008-06
+3;2008-06-01T00:00:00;Touring-1000 Yellow, 54;California;United States;43962.7901;2008-06
+1;2008-06-01T00:00:00;Touring-1000 Yellow, 54;England;United Kingdom;70698.9922;2008-06
+4;2008-06-01T00:00:00;Touring-1000 Yellow, 60;California;United States;107649.0609;2008-06
+12;2008-06-01T00:00:00;Touring-1000 Yellow, 60;England;United Kingdom;119960.824;2008-06
+1;2008-06-01T00:00:00;Touring-1000 Yellow, 60;New Mexico;United States;15275.1977;2008-06
+2;2008-06-01T00:00:00;Touring-2000 Blue, 46;California;United States;107649.0609;2008-06
+7;2008-06-01T00:00:00;Touring-2000 Blue, 46;England;United Kingdom;190659.8162;2008-06
+4;2008-06-01T00:00:00;Touring-2000 Blue, 50;California;United States;43962.7901;2008-06
+5;2008-06-01T00:00:00;Touring-2000 Blue, 50;England;United Kingdom;70698.9922;2008-06
+8;2008-06-01T00:00:00;Touring-2000 Blue, 54;California;United States;63686.2708;2008-06
+9;2008-06-01T00:00:00;Touring-2000 Blue, 54;England;United Kingdom;190659.8162;2008-06
+1;2008-06-01T00:00:00;Touring-2000 Blue, 54;New Mexico;United States;15275.1977;2008-06
+4;2008-06-01T00:00:00;Touring-2000 Blue, 60;California;United States;111404.0342;2008-06
+5;2008-06-01T00:00:00;Touring-2000 Blue, 60;England;United Kingdom;190659.8162;2008-06
+1;2008-06-01T00:00:00;Touring-2000 Blue, 60;New Mexico;United States;15275.1977;2008-06
+1;2008-06-01T00:00:00;Touring-3000 Blue, 44;California;United States;43962.7901;2008-06
+4;2008-06-01T00:00:00;Touring-3000 Blue, 44;England;United Kingdom;70698.9922;2008-06
+5;2008-06-01T00:00:00;Touring-3000 Blue, 50;California;United States;107649.0609;2008-06
+4;2008-06-01T00:00:00;Touring-3000 Blue, 50;Colorado;United States;14017.9083;2008-06
+11;2008-06-01T00:00:00;Touring-3000 Blue, 50;England;United Kingdom;190659.8162;2008-06
+3;2008-06-01T00:00:00;Touring-3000 Blue, 50;New Mexico;United States;15275.1977;2008-06
+7;2008-06-01T00:00:00;Touring-3000 Blue, 54;California;United States;107649.0609;2008-06
+7;2008-06-01T00:00:00;Touring-3000 Blue, 54;England;United Kingdom;190659.8162;2008-06
+1;2008-06-01T00:00:00;Touring-3000 Blue, 54;New Mexico;United States;15275.1977;2008-06
+4;2008-06-01T00:00:00;Touring-3000 Blue, 58;California;United States;43962.7901;2008-06
+2;2008-06-01T00:00:00;Touring-3000 Blue, 58;England;United Kingdom;190659.8162;2008-06
+3;2008-06-01T00:00:00;Touring-3000 Blue, 62;England;United Kingdom;70698.9922;2008-06
+11;2008-06-01T00:00:00;Touring-3000 Yellow, 44;California;United States;111404.0342;2008-06
+5;2008-06-01T00:00:00;Touring-3000 Yellow, 44;England;United Kingdom;190659.8162;2008-06
+2;2008-06-01T00:00:00;Touring-3000 Yellow, 44;New Mexico;United States;15275.1977;2008-06
+7;2008-06-01T00:00:00;Touring-3000 Yellow, 50;England;United Kingdom;119960.824;2008-06
+1;2008-06-01T00:00:00;Touring-3000 Yellow, 50;New Mexico;United States;15275.1977;2008-06
+1;2008-06-01T00:00:00;Touring-3000 Yellow, 50;Utah;United States;665.4251;2008-06
+1;2008-06-01T00:00:00;Touring-3000 Yellow, 54;California;United States;43962.7901;2008-06
+5;2008-06-01T00:00:00;Touring-3000 Yellow, 54;England;United Kingdom;119960.824;2008-06
+3;2008-06-01T00:00:00;Touring-3000 Yellow, 58;England;United Kingdom;70698.9922;2008-06
+2;2008-06-01T00:00:00;Touring-3000 Yellow, 62;California;United States;63686.2708;2008-06
+16;2008-06-01T00:00:00;Touring-3000 Yellow, 62;England;United Kingdom;190659.8162;2008-06
+2;2008-06-01T00:00:00;Touring-3000 Yellow, 62;New Mexico;United States;15275.1977;2008-06
+24;2008-06-01T00:00:00;Water Bottle - 30 oz.;California;United States;218579.0612;2008-06
+30;2008-06-01T00:00:00;Water Bottle - 30 oz.;England;United Kingdom;304321.8443;2008-06
+10;2008-06-01T00:00:00;Women's Mountain Shorts, L;California;United States;127827.3491;2008-06
+17;2008-06-01T00:00:00;Women's Mountain Shorts, L;England;United Kingdom;153278.6621;2008-06
+5;2008-06-01T00:00:00;Women's Mountain Shorts, M;England;United Kingdom;148129.5621;2008-06
+9;2008-06-01T00:00:00;Women's Mountain Shorts, S;California;United States;127827.3491;2008-06
+39;2008-06-01T00:00:00;Women's Mountain Shorts, S;England;United Kingdom;192810.2706;2008-06

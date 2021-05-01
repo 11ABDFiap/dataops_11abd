@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_-mLWQKrGEeuoerYo1-WcGg" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_-mLWQarGEeuoerYo1-WcGg" comment="" name="LocalPath" prompt="LocalPath?" promptNeeded="false" type="id_String" value="D:\OneDrive\Documentos\MBA Engenharia de Dados\DataOps\Trabalhos\"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_-mLWQqrGEeuoerYo1-WcGg" confirmationNeeded="false" name="Linux">
+    <contextParameter xmi:id="_-mLWQ6rGEeuoerYo1-WcGg" comment="" name="LocalPath" prompt="LocalPath?" promptNeeded="false" type="id_String" value="/home/leonardo/git/fiap/"/>
+  </talendfile:ContextType>
+</xmi:XMI>

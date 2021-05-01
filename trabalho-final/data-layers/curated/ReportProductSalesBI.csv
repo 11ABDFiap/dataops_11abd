@@ -1,0 +1,311 @@
+OrderQty;UnitPrice;UnitPriceDiscount;OrderDate;ProductName;Color;StandardCost;ListPrice;Size;Weight;DiscontinuedDate;SalesPerson;ModelName;Week;CountryRegion
+12954;5.394;0.0;2008-06-01T00:00:00;AWC Logo Cap;Multi;6.9223;8.99;;;;adventure-works\jae0;Cycling Cap;1;United Kingdom
+8382;5.2142;0.02;2008-06-01T00:00:00;AWC Logo Cap;Multi;6.9223;8.99;;;;adventure-works\linda3;Cycling Cap;1;United States
+9906;5.394;0.0;2008-06-01T00:00:00;AWC Logo Cap;Multi;6.9223;8.99;;;;adventure-works\linda3;Cycling Cap;1;United States
+8382;5.394;0.0;2008-06-01T00:00:00;AWC Logo Cap;Multi;6.9223;8.99;;;;adventure-works\shu0;Cycling Cap;1;United States
+10668;4.77;0.0;2008-06-01T00:00:00;Bike Wash - Dissolver;;2.9733;7.95;;;;adventure-works\jae0;Bike Wash;1;United Kingdom
+12954;4.3725;0.05;2008-06-01T00:00:00;Bike Wash - Dissolver;;2.9733;7.95;;;;adventure-works\jae0;Bike Wash;1;United Kingdom
+14478;4.77;0.0;2008-06-01T00:00:00;Bike Wash - Dissolver;;2.9733;7.95;;;;adventure-works\linda3;Bike Wash;1;United States
+3810;4.77;0.0;2008-06-01T00:00:00;Bike Wash - Dissolver;;2.9733;7.95;;;;adventure-works\shu0;Bike Wash;1;United States
+3048;12.144;0.0;2008-06-01T00:00:00;Chain;Silver;8.9866;20.24;;;;adventure-works\jae0;Chain;1;United Kingdom
+762;12.144;0.0;2008-06-01T00:00:00;Chain;Silver;8.9866;20.24;;;;adventure-works\linda3;Chain;1;United States
+2286;12.144;0.0;2008-06-01T00:00:00;Chain;Silver;8.9866;20.24;;;;adventure-works\shu0;Chain;1;United States
+10668;38.1;0.0;2008-06-01T00:00:00;Classic Vest, M;Blue;23.749;63.5;M;;;adventure-works\jae0;Classic Vest;1;United Kingdom
+10668;38.1;0.0;2008-06-01T00:00:00;Classic Vest, M;Blue;23.749;63.5;M;;;adventure-works\linda3;Classic Vest;1;United States
+4572;38.1;0.0;2008-06-01T00:00:00;Classic Vest, M;Blue;23.749;63.5;M;;;adventure-works\shu0;Classic Vest;1;United States
+-30484;34.925;0.05;2008-06-01T00:00:00;Classic Vest, S;Blue;23.749;63.5;S;;;adventure-works\jae0;Classic Vest;1;United Kingdom
+5334;38.1;0.0;2008-06-01T00:00:00;Classic Vest, S;Blue;23.749;63.5;S;;;adventure-works\jae0;Classic Vest;1;United Kingdom
+4572;38.1;0.0;2008-06-01T00:00:00;Classic Vest, S;Blue;23.749;63.5;S;;;adventure-works\linda3;Classic Vest;1;United States
+11430;34.925;0.05;2008-06-01T00:00:00;Classic Vest, S;Blue;23.749;63.5;S;;;adventure-works\linda3;Classic Vest;1;United States
+9906;38.1;0.0;2008-06-01T00:00:00;Classic Vest, S;Blue;23.749;63.5;S;;;adventure-works\shu0;Classic Vest;1;United States
+3810;63.9;0.0;2008-06-01T00:00:00;Front Brakes;Silver;47.286;106.5;;317.00;;adventure-works\jae0;Front Brakes;1;United Kingdom
+2286;63.9;0.0;2008-06-01T00:00:00;Front Brakes;Silver;47.286;106.5;;317.00;;adventure-works\linda3;Front Brakes;1;United States
+3048;63.9;0.0;2008-06-01T00:00:00;Front Brakes;Silver;47.286;106.5;;317.00;;adventure-works\shu0;Front Brakes;1;United States
+6096;54.894;0.0;2008-06-01T00:00:00;Front Derailleur;Silver;40.6216;91.49;;88.00;;adventure-works\jae0;Front Derailleur;1;United Kingdom
+2286;54.894;0.0;2008-06-01T00:00:00;Front Derailleur;Silver;40.6216;91.49;;88.00;;adventure-works\linda3;Front Derailleur;1;United States
+1524;54.894;0.0;2008-06-01T00:00:00;Front Derailleur;Silver;40.6216;91.49;;88.00;;adventure-works\shu0;Front Derailleur;1;United States
+6096;72.894;0.0;2008-06-01T00:00:00;HL Bottom Bracket;;53.9416;121.49;;170.00;;adventure-works\jae0;HL Bottom Bracket;1;United Kingdom
+3048;72.894;0.0;2008-06-01T00:00:00;HL Bottom Bracket;;53.9416;121.49;;170.00;;adventure-works\linda3;HL Bottom Bracket;1;United States
+2286;72.894;0.0;2008-06-01T00:00:00;HL Bottom Bracket;;53.9416;121.49;;170.00;;adventure-works\shu0;HL Bottom Bracket;1;United States
+6858;242.994;0.0;2008-06-01T00:00:00;HL Crankset;Black;179.8156;404.99;;575.00;;adventure-works\jae0;HL Crankset;1;United Kingdom
+1524;242.994;0.0;2008-06-01T00:00:00;HL Crankset;Black;179.8156;404.99;;575.00;;adventure-works\linda3;HL Crankset;1;United States
+762;242.994;0.0;2008-06-01T00:00:00;HL Crankset;Black;179.8156;404.99;;575.00;;adventure-works\shu0;HL Crankset;1;United States
+3048;809.76;0.0;2008-06-01T00:00:00;HL Mountain Frame - Black, 38;Black;739.041;1349.6;38;1215.62;;adventure-works\jae0;HL Mountain Frame;1;United Kingdom
+2286;809.76;0.0;2008-06-01T00:00:00;HL Mountain Frame - Black, 38;Black;739.041;1349.6;38;1215.62;;adventure-works\shu0;HL Mountain Frame;1;United States
+6858;809.76;0.0;2008-06-01T00:00:00;HL Mountain Frame - Black, 42;Black;739.041;1349.6;42;1233.76;;adventure-works\jae0;HL Mountain Frame;1;United Kingdom
+2286;809.76;0.0;2008-06-01T00:00:00;HL Mountain Frame - Black, 42;Black;739.041;1349.6;42;1233.76;;adventure-works\shu0;HL Mountain Frame;1;United States
+6096;818.7;0.0;2008-06-01T00:00:00;HL Mountain Frame - Silver, 38;Silver;747.2002;1364.5;38;1215.62;;adventure-works\jae0;HL Mountain Frame;1;United Kingdom
+6096;818.7;0.0;2008-06-01T00:00:00;HL Mountain Frame - Silver, 38;Silver;747.2002;1364.5;38;1215.62;;adventure-works\shu0;HL Mountain Frame;1;United States
+4572;818.7;0.0;2008-06-01T00:00:00;HL Mountain Frame - Silver, 42;Silver;747.2002;1364.5;42;1233.76;;adventure-works\jae0;HL Mountain Frame;1;United Kingdom
+5334;818.7;0.0;2008-06-01T00:00:00;HL Mountain Frame - Silver, 46;Silver;747.2002;1364.5;46;1288.20;;adventure-works\jae0;HL Mountain Frame;1;United Kingdom
+2286;818.7;0.0;2008-06-01T00:00:00;HL Mountain Frame - Silver, 46;Silver;747.2002;1364.5;46;1288.20;;adventure-works\shu0;HL Mountain Frame;1;United States
+1524;72.162;0.0;2008-06-01T00:00:00;HL Mountain Handlebars;;53.3999;120.27;;;;adventure-works\jae0;HL Mountain Handlebars;1;United Kingdom
+762;72.162;0.0;2008-06-01T00:00:00;HL Mountain Handlebars;;53.3999;120.27;;;;adventure-works\shu0;HL Mountain Handlebars;1;United States
+5334;48.594;0.0;2008-06-01T00:00:00;HL Mountain Pedal;Silver/Black;35.9596;80.99;;185.00;;adventure-works\jae0;HL Mountain Pedal;1;United Kingdom
+3810;48.594;0.0;2008-06-01T00:00:00;HL Mountain Pedal;Silver/Black;35.9596;80.99;;185.00;;adventure-works\shu0;HL Mountain Pedal;1;United States
+3048;31.584;0.0;2008-06-01T00:00:00;HL Mountain Seat/Saddle;;23.3722;52.64;;;;adventure-works\jae0;HL Mountain Seat/Saddle 2;1;United Kingdom
+2286;31.584;0.0;2008-06-01T00:00:00;HL Mountain Seat/Saddle;;23.3722;52.64;;;;adventure-works\shu0;HL Mountain Seat/Saddle 2;1;United States
+1524;858.9;0.0;2008-06-01T00:00:00;HL Road Frame - Black, 44;Black;868.6342;1431.5;44;961.61;;adventure-works\jae0;HL Road Frame;1;United Kingdom
+3048;858.9;0.0;2008-06-01T00:00:00;HL Road Frame - Black, 44;Black;868.6342;1431.5;44;961.61;;adventure-works\linda3;HL Road Frame;1;United States
+762;858.9;0.0;2008-06-01T00:00:00;HL Road Frame - Red, 44;Red;868.6342;1431.5;44;961.61;;adventure-works\jae0;HL Road Frame;1;United Kingdom
+1524;858.9;0.0;2008-06-01T00:00:00;HL Road Frame - Red, 44;Red;868.6342;1431.5;44;961.61;;adventure-works\linda3;HL Road Frame;1;United States
+2286;858.9;0.0;2008-06-01T00:00:00;HL Road Frame - Red, 62;Red;868.6342;1431.5;62;1043.26;;adventure-works\jae0;HL Road Frame;1;United Kingdom
+2286;72.162;0.0;2008-06-01T00:00:00;HL Road Handlebars;;53.3999;120.27;;;;adventure-works\jae0;HL Road Handlebars;1;United Kingdom
+762;72.162;0.0;2008-06-01T00:00:00;HL Road Handlebars;;53.3999;120.27;;;;adventure-works\linda3;HL Road Handlebars;1;United States
+6858;48.594;0.0;2008-06-01T00:00:00;HL Road Pedal;Silver/Black;35.9596;80.99;;149.00;;adventure-works\jae0;HL Road Pedal;1;United Kingdom
+3810;48.594;0.0;2008-06-01T00:00:00;HL Road Pedal;Silver/Black;35.9596;80.99;;149.00;;adventure-works\linda3;HL Road Pedal;1;United States
+1524;31.584;0.0;2008-06-01T00:00:00;HL Road Seat/Saddle;;23.3722;52.64;;;;adventure-works\jae0;HL Road Seat/Saddle 2;1;United Kingdom
+762;602.346;0.0;2008-06-01T00:00:00;HL Touring Frame - Blue, 50;Blue;601.7437;1003.91;50;1360.77;;adventure-works\linda3;HL Touring Frame;1;United States
+5334;602.346;0.0;2008-06-01T00:00:00;HL Touring Frame - Blue, 54;Blue;601.7437;1003.91;54;1378.91;;adventure-works\linda3;HL Touring Frame;1;United States
+762;602.346;0.0;2008-06-01T00:00:00;HL Touring Frame - Blue, 60;Blue;601.7437;1003.91;60;1397.06;;adventure-works\jae0;HL Touring Frame;1;United Kingdom
+1524;602.346;0.0;2008-06-01T00:00:00;HL Touring Frame - Blue, 60;Blue;601.7437;1003.91;60;1397.06;;adventure-works\linda3;HL Touring Frame;1;United States
+3810;602.346;0.0;2008-06-01T00:00:00;HL Touring Frame - Yellow, 54;Yellow;601.7437;1003.91;54;1378.91;;adventure-works\jae0;HL Touring Frame;1;United Kingdom
+6096;602.346;0.0;2008-06-01T00:00:00;HL Touring Frame - Yellow, 60;Yellow;601.7437;1003.91;60;1397.06;;adventure-works\jae0;HL Touring Frame;1;United Kingdom
+3048;602.346;0.0;2008-06-01T00:00:00;HL Touring Frame - Yellow, 60;Yellow;601.7437;1003.91;60;1397.06;;adventure-works\linda3;HL Touring Frame;1;United States
+762;54.942;0.0;2008-06-01T00:00:00;HL Touring Handlebars;;40.6571;91.57;;;;adventure-works\linda3;HL Touring Handlebars;1;United States
+4572;31.584;0.0;2008-06-01T00:00:00;HL Touring Seat/Saddle;;23.3722;52.64;;;;adventure-works\jae0;HL Touring Seat/Saddle;1;United Kingdom
+1524;31.584;0.0;2008-06-01T00:00:00;HL Touring Seat/Saddle;;23.3722;52.64;;;;adventure-works\linda3;HL Touring Seat/Saddle;1;United States
+7620;14.694;0.0;2008-06-01T00:00:00;Half-Finger Gloves, L;Black;9.1593;24.49;L;;;adventure-works\jae0;Half-Finger Gloves;1;United Kingdom
+6858;14.694;0.0;2008-06-01T00:00:00;Half-Finger Gloves, L;Black;9.1593;24.49;L;;;adventure-works\linda3;Half-Finger Gloves;1;United States
+12192;14.694;0.0;2008-06-01T00:00:00;Half-Finger Gloves, M;Black;9.1593;24.49;M;;;adventure-works\jae0;Half-Finger Gloves;1;United Kingdom
+6096;14.694;0.0;2008-06-01T00:00:00;Half-Finger Gloves, M;Black;9.1593;24.49;M;;;adventure-works\linda3;Half-Finger Gloves;1;United States
+1524;14.694;0.0;2008-06-01T00:00:00;Half-Finger Gloves, M;Black;9.1593;24.49;M;;;adventure-works\shu0;Half-Finger Gloves;1;United States
+7620;14.694;0.0;2008-06-01T00:00:00;Half-Finger Gloves, S;Black;9.1593;24.49;S;;;adventure-works\jae0;Half-Finger Gloves;1;United Kingdom
+1524;14.694;0.0;2008-06-01T00:00:00;Half-Finger Gloves, S;Black;9.1593;24.49;S;;;adventure-works\linda3;Half-Finger Gloves;1;United States
+16764;72.0;0.0;2008-06-01T00:00:00;Hitch Rack - 4-Bike;;44.88;120.0;;;;adventure-works\jae0;Hitch Rack - 4-Bike;1;United Kingdom
+3810;72.0;0.0;2008-06-01T00:00:00;Hitch Rack - 4-Bike;;44.88;120.0;;;;adventure-works\linda3;Hitch Rack - 4-Bike;1;United States
+3810;72.0;0.0;2008-06-01T00:00:00;Hitch Rack - 4-Bike;;44.88;120.0;;;;adventure-works\shu0;Hitch Rack - 4-Bike;1;United States
+20574;32.994;0.0;2008-06-01T00:00:00;Hydration Pack - 70 oz.;Silver;20.5663;54.99;70;;;adventure-works\jae0;Hydration Pack;1;United Kingdom
+13716;32.994;0.0;2008-06-01T00:00:00;Hydration Pack - 70 oz.;Silver;20.5663;54.99;70;;;adventure-works\linda3;Hydration Pack;1;United States
+3810;32.994;0.0;2008-06-01T00:00:00;Hydration Pack - 70 oz.;Silver;20.5663;54.99;70;;;adventure-works\shu0;Hydration Pack;1;United States
+4572;32.394;0.0;2008-06-01T00:00:00;LL Bottom Bracket;;23.9716;53.99;;223.00;;adventure-works\jae0;LL Bottom Bracket;1;United Kingdom
+762;32.394;0.0;2008-06-01T00:00:00;LL Bottom Bracket;;23.9716;53.99;;223.00;;adventure-works\linda3;LL Bottom Bracket;1;United States
+5334;105.294;0.0;2008-06-01T00:00:00;LL Crankset;Black;77.9176;175.49;;600.00;;adventure-works\jae0;LL Crankset;1;United Kingdom
+2286;105.294;0.0;2008-06-01T00:00:00;LL Crankset;Black;77.9176;175.49;;600.00;;adventure-works\shu0;LL Crankset;1;United States
+3810;149.874;0.0;2008-06-01T00:00:00;LL Mountain Frame - Black, 42;Black;136.785;249.79;42;1324.48;;adventure-works\jae0;LL Mountain Frame;1;United Kingdom
+3048;149.874;0.0;2008-06-01T00:00:00;LL Mountain Frame - Black, 42;Black;136.785;249.79;42;1324.48;;adventure-works\shu0;LL Mountain Frame;1;United States
+6858;149.874;0.0;2008-06-01T00:00:00;LL Mountain Frame - Black, 44;Black;136.785;249.79;44;1342.63;;adventure-works\jae0;LL Mountain Frame;1;United Kingdom
+2286;149.874;0.0;2008-06-01T00:00:00;LL Mountain Frame - Black, 44;Black;136.785;249.79;44;1342.63;;adventure-works\shu0;LL Mountain Frame;1;United States
+2286;149.874;0.0;2008-06-01T00:00:00;LL Mountain Frame - Black, 48;Black;136.785;249.79;48;1360.77;;adventure-works\jae0;LL Mountain Frame;1;United Kingdom
+762;149.874;0.0;2008-06-01T00:00:00;LL Mountain Frame - Black, 48;Black;136.785;249.79;48;1360.77;;adventure-works\shu0;LL Mountain Frame;1;United States
+3810;158.43;0.0;2008-06-01T00:00:00;LL Mountain Frame - Silver, 40;Silver;144.5938;264.05;40;1306.34;;adventure-works\jae0;LL Mountain Frame;1;United Kingdom
+3048;158.43;0.0;2008-06-01T00:00:00;LL Mountain Frame - Silver, 40;Silver;144.5938;264.05;40;1306.34;;adventure-works\shu0;LL Mountain Frame;1;United States
+6096;158.43;0.0;2008-06-01T00:00:00;LL Mountain Frame - Silver, 42;Silver;144.5938;264.05;42;1324.48;;adventure-works\jae0;LL Mountain Frame;1;United Kingdom
+5334;158.43;0.0;2008-06-01T00:00:00;LL Mountain Frame - Silver, 44;Silver;144.5938;264.05;44;1342.63;;adventure-works\jae0;LL Mountain Frame;1;United Kingdom
+1524;158.43;0.0;2008-06-01T00:00:00;LL Mountain Frame - Silver, 44;Silver;144.5938;264.05;44;1342.63;;adventure-works\shu0;LL Mountain Frame;1;United States
+762;158.43;0.0;2008-06-01T00:00:00;LL Mountain Frame - Silver, 52;Silver;144.5938;264.05;52;1378.91;;adventure-works\jae0;LL Mountain Frame;1;United Kingdom
+1524;158.43;0.0;2008-06-01T00:00:00;LL Mountain Frame - Silver, 52;Silver;144.5938;264.05;52;1378.91;;adventure-works\shu0;LL Mountain Frame;1;United States
+3810;26.724;0.0;2008-06-01T00:00:00;LL Mountain Handlebars;;19.7758;44.54;;;;adventure-works\jae0;LL Mountain Handlebars;1;United Kingdom
+1524;26.724;0.0;2008-06-01T00:00:00;LL Mountain Handlebars;;19.7758;44.54;;;;adventure-works\shu0;LL Mountain Handlebars;1;United States
+6096;24.294;0.0;2008-06-01T00:00:00;LL Mountain Pedal;Silver/Black;17.9776;40.49;;218.00;;adventure-works\jae0;LL Mountain Pedal;1;United Kingdom
+3048;24.294;0.0;2008-06-01T00:00:00;LL Mountain Pedal;Silver/Black;17.9776;40.49;;218.00;;adventure-works\shu0;LL Mountain Pedal;1;United States
+3048;16.272;0.0;2008-06-01T00:00:00;LL Mountain Seat/Saddle;;12.0413;27.12;;;;adventure-works\jae0;LL Mountain Seat/Saddle 2;1;United Kingdom
+1524;16.272;0.0;2008-06-01T00:00:00;LL Mountain Seat/Saddle;;12.0413;27.12;;;;adventure-works\shu0;LL Mountain Seat/Saddle 2;1;United States
+3048;202.332;0.0;2008-06-01T00:00:00;LL Road Frame - Black, 52;Black;204.6251;337.22;52;1088.62;;adventure-works\jae0;LL Road Frame;1;United Kingdom
+5334;202.332;0.0;2008-06-01T00:00:00;LL Road Frame - Black, 52;Black;204.6251;337.22;52;1088.62;;adventure-works\linda3;LL Road Frame;1;United States
+2286;202.332;0.0;2008-06-01T00:00:00;LL Road Frame - Black, 58;Black;204.6251;337.22;58;1115.83;;adventure-works\jae0;LL Road Frame;1;United Kingdom
+4572;202.332;0.0;2008-06-01T00:00:00;LL Road Frame - Black, 58;Black;204.6251;337.22;58;1115.83;;adventure-works\linda3;LL Road Frame;1;United States
+6096;24.294;0.0;2008-06-01T00:00:00;LL Road Pedal;Silver/Black;17.9776;40.49;;189.00;;adventure-works\jae0;LL Road Pedal;1;United Kingdom
+7620;24.294;0.0;2008-06-01T00:00:00;LL Road Pedal;Silver/Black;17.9776;40.49;;189.00;;adventure-works\linda3;LL Road Pedal;1;United States
+2286;24.294;0.0;2008-06-01T00:00:00;LL Road Pedal;Silver/Black;17.9776;40.49;;189.00;;adventure-works\shu0;LL Road Pedal;1;United States
+1524;200.052;0.0;2008-06-01T00:00:00;LL Touring Frame - Blue, 50;Blue;199.8519;333.42;50;1406.13;;adventure-works\jae0;LL Touring Frame;1;United Kingdom
+2286;200.052;0.0;2008-06-01T00:00:00;LL Touring Frame - Blue, 54;Blue;199.8519;333.42;54;1424.27;;adventure-works\jae0;LL Touring Frame;1;United Kingdom
+1524;200.052;0.0;2008-06-01T00:00:00;LL Touring Frame - Yellow, 44;Yellow;199.8519;333.42;44;1369.84;;adventure-works\jae0;LL Touring Frame;1;United Kingdom
+762;200.052;0.0;2008-06-01T00:00:00;LL Touring Frame - Yellow, 44;Yellow;199.8519;333.42;44;1369.84;;adventure-works\linda3;LL Touring Frame;1;United States
+762;200.052;0.0;2008-06-01T00:00:00;LL Touring Frame - Yellow, 50;Yellow;199.8519;333.42;50;1406.13;;adventure-works\jae0;LL Touring Frame;1;United Kingdom
+762;200.052;0.0;2008-06-01T00:00:00;LL Touring Frame - Yellow, 50;Yellow;199.8519;333.42;50;1406.13;;adventure-works\linda3;LL Touring Frame;1;United States
+762;200.052;0.0;2008-06-01T00:00:00;LL Touring Frame - Yellow, 62;Yellow;199.8519;333.42;62;1451.49;;adventure-works\linda3;LL Touring Frame;1;United States
+11430;29.994;0.0;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, L;Multi;38.4923;49.99;L;;;adventure-works\jae0;Long-Sleeve Logo Jersey;1;United Kingdom
+7620;29.994;0.0;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, L;Multi;38.4923;49.99;L;;;adventure-works\linda3;Long-Sleeve Logo Jersey;1;United States
+12954;27.4945;0.05;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, L;Multi;38.4923;49.99;L;;;adventure-works\linda3;Long-Sleeve Logo Jersey;1;United States
+6858;29.994;0.0;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, L;Multi;38.4923;49.99;L;;;adventure-works\shu0;Long-Sleeve Logo Jersey;1;United States
+9144;29.994;0.0;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, M;Multi;38.4923;49.99;M;;;adventure-works\jae0;Long-Sleeve Logo Jersey;1;United Kingdom
+6858;29.994;0.0;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, M;Multi;38.4923;49.99;M;;;adventure-works\linda3;Long-Sleeve Logo Jersey;1;United States
+3810;29.994;0.0;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, M;Multi;38.4923;49.99;M;;;adventure-works\shu0;Long-Sleeve Logo Jersey;1;United States
+7620;29.994;0.0;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, XL;Multi;38.4923;49.99;XL;;;adventure-works\jae0;Long-Sleeve Logo Jersey;1;United Kingdom
+3048;29.994;0.0;2008-06-01T00:00:00;Long-Sleeve Logo Jersey, XL;Multi;38.4923;49.99;XL;;;adventure-works\linda3;Long-Sleeve Logo Jersey;1;United States
+5334;218.454;0.0;2008-06-01T00:00:00;ML Mountain Frame-W - Silver, 40;Silver;199.3757;364.09;40;1256.44;;adventure-works\jae0;ML Mountain Frame-W;1;United Kingdom
+3810;218.454;0.0;2008-06-01T00:00:00;ML Mountain Frame-W - Silver, 40;Silver;199.3757;364.09;40;1256.44;;adventure-works\shu0;ML Mountain Frame-W;1;United States
+4572;218.454;0.0;2008-06-01T00:00:00;ML Mountain Frame-W - Silver, 42;Silver;199.3757;364.09;42;1274.59;;adventure-works\jae0;ML Mountain Frame-W;1;United Kingdom
+3810;218.454;0.0;2008-06-01T00:00:00;ML Mountain Frame-W - Silver, 42;Silver;199.3757;364.09;42;1274.59;;adventure-works\shu0;ML Mountain Frame-W;1;United States
+6858;37.152;0.0;2008-06-01T00:00:00;ML Mountain Handlebars;;27.4925;61.92;;;;adventure-works\jae0;ML Mountain Handlebars;1;United Kingdom
+2286;37.152;0.0;2008-06-01T00:00:00;ML Mountain Handlebars;;27.4925;61.92;;;;adventure-works\shu0;ML Mountain Handlebars;1;United States
+3810;37.254;0.0;2008-06-01T00:00:00;ML Mountain Pedal;Silver/Black;27.568;62.09;;215.00;;adventure-works\jae0;ML Mountain Pedal;1;United Kingdom
+762;37.254;0.0;2008-06-01T00:00:00;ML Mountain Pedal;Silver/Black;27.568;62.09;;215.00;;adventure-works\shu0;ML Mountain Pedal;1;United States
+4572;23.484;0.0;2008-06-01T00:00:00;ML Mountain Seat/Saddle;;17.3782;39.14;;;;adventure-works\jae0;ML Mountain Seat/Saddle 2;1;United Kingdom
+7620;23.484;0.0;2008-06-01T00:00:00;ML Mountain Seat/Saddle;;17.3782;39.14;;;;adventure-works\shu0;ML Mountain Seat/Saddle 2;1;United States
+1524;356.898;0.0;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 38;Yellow;360.9428;594.83;38;988.83;;adventure-works\jae0;ML Road Frame-W;1;United Kingdom
+1524;356.898;0.0;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 38;Yellow;360.9428;594.83;38;988.83;;adventure-works\linda3;ML Road Frame-W;1;United States
+5334;356.898;0.0;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 44;Yellow;360.9428;594.83;44;1043.26;;adventure-works\jae0;ML Road Frame-W;1;United Kingdom
+3810;356.898;0.0;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 44;Yellow;360.9428;594.83;44;1043.26;;adventure-works\linda3;ML Road Frame-W;1;United States
+3048;356.898;0.0;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 48;Yellow;360.9428;594.83;48;1061.40;;adventure-works\jae0;ML Road Frame-W;1;United Kingdom
+6096;356.898;0.0;2008-06-01T00:00:00;ML Road Frame-W - Yellow, 48;Yellow;360.9428;594.83;48;1061.40;;adventure-works\linda3;ML Road Frame-W;1;United States
+7620;37.254;0.0;2008-06-01T00:00:00;ML Road Pedal;Silver/Black;27.568;62.09;;168.00;;adventure-works\jae0;ML Road Pedal;1;United Kingdom
+6858;37.254;0.0;2008-06-01T00:00:00;ML Road Pedal;Silver/Black;27.568;62.09;;168.00;;adventure-works\linda3;ML Road Pedal;1;United States
+12192;1376.994;0.0;2008-06-01T00:00:00;Mountain-200 Black, 38;Black;1251.9813;2294.99;38;10591.33;;adventure-works\jae0;Mountain-200;1;United Kingdom
+7620;1376.994;0.0;2008-06-01T00:00:00;Mountain-200 Black, 38;Black;1251.9813;2294.99;38;10591.33;;adventure-works\shu0;Mountain-200;1;United States
+11430;1376.994;0.0;2008-06-01T00:00:00;Mountain-200 Black, 42;Black;1251.9813;2294.99;42;10781.83;;adventure-works\jae0;Mountain-200;1;United Kingdom
+9144;1376.994;0.0;2008-06-01T00:00:00;Mountain-200 Black, 42;Black;1251.9813;2294.99;42;10781.83;;adventure-works\shu0;Mountain-200;1;United States
+7620;1376.994;0.0;2008-06-01T00:00:00;Mountain-200 Black, 46;Black;1251.9813;2294.99;46;10945.13;;adventure-works\jae0;Mountain-200;1;United Kingdom
+3048;1376.994;0.0;2008-06-01T00:00:00;Mountain-200 Black, 46;Black;1251.9813;2294.99;46;10945.13;;adventure-works\shu0;Mountain-200;1;United States
+3810;1391.994;0.0;2008-06-01T00:00:00;Mountain-200 Silver, 38;Silver;1265.6195;2319.99;38;10591.33;;adventure-works\jae0;Mountain-200;1;United Kingdom
+4572;1391.994;0.0;2008-06-01T00:00:00;Mountain-200 Silver, 38;Silver;1265.6195;2319.99;38;10591.33;;adventure-works\shu0;Mountain-200;1;United States
+6096;1391.994;0.0;2008-06-01T00:00:00;Mountain-200 Silver, 42;Silver;1265.6195;2319.99;42;10781.83;;adventure-works\jae0;Mountain-200;1;United Kingdom
+5334;1391.994;0.0;2008-06-01T00:00:00;Mountain-200 Silver, 42;Silver;1265.6195;2319.99;42;10781.83;;adventure-works\shu0;Mountain-200;1;United States
+4572;1391.994;0.0;2008-06-01T00:00:00;Mountain-200 Silver, 46;Silver;1265.6195;2319.99;46;10945.13;;adventure-works\jae0;Mountain-200;1;United Kingdom
+5334;1391.994;0.0;2008-06-01T00:00:00;Mountain-200 Silver, 46;Silver;1265.6195;2319.99;46;10945.13;;adventure-works\shu0;Mountain-200;1;United States
+762;461.694;0.0;2008-06-01T00:00:00;Mountain-400-W Silver, 38;Silver;419.7784;769.49;38;11952.10;;adventure-works\jae0;Mountain-400-W;1;United Kingdom
+2286;461.694;0.0;2008-06-01T00:00:00;Mountain-400-W Silver, 38;Silver;419.7784;769.49;38;11952.10;;adventure-works\shu0;Mountain-400-W;1;United States
+4572;461.694;0.0;2008-06-01T00:00:00;Mountain-400-W Silver, 40;Silver;419.7784;769.49;40;12142.60;;adventure-works\jae0;Mountain-400-W;1;United Kingdom
+2286;461.694;0.0;2008-06-01T00:00:00;Mountain-400-W Silver, 40;Silver;419.7784;769.49;40;12142.60;;adventure-works\shu0;Mountain-400-W;1;United States
+2286;461.694;0.0;2008-06-01T00:00:00;Mountain-400-W Silver, 42;Silver;419.7784;769.49;42;12305.90;;adventure-works\jae0;Mountain-400-W;1;United Kingdom
+1524;461.694;0.0;2008-06-01T00:00:00;Mountain-400-W Silver, 42;Silver;419.7784;769.49;42;12305.90;;adventure-works\shu0;Mountain-400-W;1;United States
+3810;461.694;0.0;2008-06-01T00:00:00;Mountain-400-W Silver, 46;Silver;419.7784;769.49;46;12437.44;;adventure-works\jae0;Mountain-400-W;1;United Kingdom
+3048;461.694;0.0;2008-06-01T00:00:00;Mountain-400-W Silver, 46;Silver;419.7784;769.49;46;12437.44;;adventure-works\shu0;Mountain-400-W;1;United States
+1524;323.994;0.0;2008-06-01T00:00:00;Mountain-500 Black, 40;Black;294.5797;539.99;40;12405.69;;adventure-works\jae0;Mountain-500;1;United Kingdom
+762;323.994;0.0;2008-06-01T00:00:00;Mountain-500 Black, 40;Black;294.5797;539.99;40;12405.69;;adventure-works\shu0;Mountain-500;1;United States
+2286;323.994;0.0;2008-06-01T00:00:00;Mountain-500 Black, 42;Black;294.5797;539.99;42;12596.19;;adventure-works\jae0;Mountain-500;1;United Kingdom
+2286;323.994;0.0;2008-06-01T00:00:00;Mountain-500 Black, 44;Black;294.5797;539.99;44;12759.49;;adventure-works\jae0;Mountain-500;1;United Kingdom
+1524;323.994;0.0;2008-06-01T00:00:00;Mountain-500 Black, 44;Black;294.5797;539.99;44;12759.49;;adventure-works\shu0;Mountain-500;1;United States
+6858;323.994;0.0;2008-06-01T00:00:00;Mountain-500 Black, 48;Black;294.5797;539.99;48;12891.03;;adventure-works\jae0;Mountain-500;1;United Kingdom
+2286;323.994;0.0;2008-06-01T00:00:00;Mountain-500 Black, 48;Black;294.5797;539.99;48;12891.03;;adventure-works\shu0;Mountain-500;1;United States
+1524;323.994;0.0;2008-06-01T00:00:00;Mountain-500 Black, 52;Black;294.5797;539.99;52;13008.96;;adventure-works\jae0;Mountain-500;1;United Kingdom
+762;323.994;0.0;2008-06-01T00:00:00;Mountain-500 Black, 52;Black;294.5797;539.99;52;13008.96;;adventure-works\shu0;Mountain-500;1;United States
+5334;112.998;0.4;2008-06-01T00:00:00;Mountain-500 Silver, 40;Silver;308.2179;564.99;40;12405.69;;adventure-works\jae0;Mountain-500;1;United Kingdom
+3048;112.998;0.4;2008-06-01T00:00:00;Mountain-500 Silver, 40;Silver;308.2179;564.99;40;12405.69;;adventure-works\shu0;Mountain-500;1;United States
+5334;112.998;0.4;2008-06-01T00:00:00;Mountain-500 Silver, 42;Silver;308.2179;564.99;42;12596.19;;adventure-works\jae0;Mountain-500;1;United Kingdom
+3810;112.998;0.4;2008-06-01T00:00:00;Mountain-500 Silver, 42;Silver;308.2179;564.99;42;12596.19;;adventure-works\shu0;Mountain-500;1;United States
+2286;112.998;0.4;2008-06-01T00:00:00;Mountain-500 Silver, 44;Silver;308.2179;564.99;44;12759.49;;adventure-works\jae0;Mountain-500;1;United Kingdom
+762;112.998;0.4;2008-06-01T00:00:00;Mountain-500 Silver, 44;Silver;308.2179;564.99;44;12759.49;;adventure-works\shu0;Mountain-500;1;United States
+3810;112.998;0.4;2008-06-01T00:00:00;Mountain-500 Silver, 48;Silver;308.2179;564.99;48;12891.03;;adventure-works\jae0;Mountain-500;1;United Kingdom
+762;112.998;0.4;2008-06-01T00:00:00;Mountain-500 Silver, 48;Silver;308.2179;564.99;48;12891.03;;adventure-works\shu0;Mountain-500;1;United States
+8382;112.998;0.4;2008-06-01T00:00:00;Mountain-500 Silver, 52;Silver;308.2179;564.99;52;13008.96;;adventure-works\jae0;Mountain-500;1;United Kingdom
+4572;112.998;0.4;2008-06-01T00:00:00;Mountain-500 Silver, 52;Silver;308.2179;564.99;52;13008.96;;adventure-works\shu0;Mountain-500;1;United States
+10668;1.374;0.0;2008-06-01T00:00:00;Patch Kit/8 Patches;;0.8565;2.29;;;;adventure-works\jae0;Patch kit;1;United Kingdom
+4572;1.374;0.0;2008-06-01T00:00:00;Patch Kit/8 Patches;;0.8565;2.29;;;;adventure-works\linda3;Patch kit;1;United States
+9144;5.394;0.0;2008-06-01T00:00:00;Racing Socks, L;White;3.3623;8.99;L;;;adventure-works\jae0;Racing Socks;1;United Kingdom
+762;5.394;0.0;2008-06-01T00:00:00;Racing Socks, L;White;3.3623;8.99;L;;;adventure-works\linda3;Racing Socks;1;United States
+18288;5.2142;0.02;2008-06-01T00:00:00;Racing Socks, L;White;3.3623;8.99;L;;;adventure-works\linda3;Racing Socks;1;United States
+10668;5.2142;0.02;2008-06-01T00:00:00;Racing Socks, L;White;3.3623;8.99;L;;;adventure-works\shu0;Racing Socks;1;United States
+3048;5.394;0.0;2008-06-01T00:00:00;Racing Socks, M;White;3.3623;8.99;M;;;adventure-works\jae0;Racing Socks;1;United Kingdom
+5334;5.394;0.0;2008-06-01T00:00:00;Racing Socks, M;White;3.3623;8.99;M;;;adventure-works\linda3;Racing Socks;1;United States
+3048;5.394;0.0;2008-06-01T00:00:00;Racing Socks, M;White;3.3623;8.99;M;;;adventure-works\shu0;Racing Socks;1;United States
+762;63.9;0.0;2008-06-01T00:00:00;Rear Brakes;Silver;47.286;106.5;;317.00;;adventure-works\jae0;Rear Brakes;1;United Kingdom
+3810;72.876;0.0;2008-06-01T00:00:00;Rear Derailleur;Silver;53.9282;121.46;;215.00;;adventure-works\jae0;Rear Derailleur;1;United Kingdom
+2286;72.876;0.0;2008-06-01T00:00:00;Rear Derailleur;Silver;53.9282;121.46;;215.00;;adventure-works\linda3;Rear Derailleur;1;United States
+6858;1466.01;0.0;2008-06-01T00:00:00;Road-250 Black, 44;Black;1554.9479;2443.35;44;6699.52;;adventure-works\jae0;Road-250;1;United Kingdom
+2286;1466.01;0.0;2008-06-01T00:00:00;Road-250 Black, 44;Black;1554.9479;2443.35;44;6699.52;;adventure-works\linda3;Road-250;1;United States
+9144;1466.01;0.0;2008-06-01T00:00:00;Road-250 Black, 48;Black;1554.9479;2443.35;48;6862.82;;adventure-works\jae0;Road-250;1;United Kingdom
+6096;1466.01;0.0;2008-06-01T00:00:00;Road-250 Black, 52;Black;1554.9479;2443.35;52;6994.36;;adventure-works\jae0;Road-250;1;United Kingdom
+2286;1466.01;0.0;2008-06-01T00:00:00;Road-250 Black, 58;Black;1554.9479;2443.35;58;7112.29;;adventure-works\jae0;Road-250;1;United Kingdom
+2286;1466.01;0.0;2008-06-01T00:00:00;Road-250 Red, 58;Red;1554.9479;2443.35;58;7162.19;;adventure-works\jae0;Road-250;1;United Kingdom
+7620;1020.594;0.0;2008-06-01T00:00:00;Road-350-W Yellow, 40;Yellow;1082.51;1700.99;40;6962.61;;adventure-works\jae0;Road-350-W;1;United Kingdom
+6858;1020.594;0.0;2008-06-01T00:00:00;Road-350-W Yellow, 40;Yellow;1082.51;1700.99;40;6962.61;;adventure-works\linda3;Road-350-W;1;United States
+762;1020.594;0.0;2008-06-01T00:00:00;Road-350-W Yellow, 40;Yellow;1082.51;1700.99;40;6962.61;;adventure-works\shu0;Road-350-W;1;United States
+4572;1020.594;0.0;2008-06-01T00:00:00;Road-350-W Yellow, 42;Yellow;1082.51;1700.99;42;7153.11;;adventure-works\jae0;Road-350-W;1;United Kingdom
+9906;986.5742;0.02;2008-06-01T00:00:00;Road-350-W Yellow, 42;Yellow;1082.51;1700.99;42;7153.11;;adventure-works\linda3;Road-350-W;1;United States
+3810;1020.594;0.0;2008-06-01T00:00:00;Road-350-W Yellow, 44;Yellow;1082.51;1700.99;44;7316.41;;adventure-works\jae0;Road-350-W;1;United Kingdom
+10668;1020.594;0.0;2008-06-01T00:00:00;Road-350-W Yellow, 48;Yellow;1082.51;1700.99;48;7447.95;;adventure-works\jae0;Road-350-W;1;United Kingdom
+1524;1020.594;0.0;2008-06-01T00:00:00;Road-350-W Yellow, 48;Yellow;1082.51;1700.99;48;7447.95;;adventure-works\linda3;Road-350-W;1;United States
+19050;850.495;0.1;2008-06-01T00:00:00;Road-350-W Yellow, 48;Yellow;1082.51;1700.99;48;7447.95;;adventure-works\linda3;Road-350-W;1;United States
+762;1020.594;0.0;2008-06-01T00:00:00;Road-350-W Yellow, 48;Yellow;1082.51;1700.99;48;7447.95;;adventure-works\shu0;Road-350-W;1;United States
+11430;672.294;0.0;2008-06-01T00:00:00;Road-550-W Yellow, 38;Yellow;713.0798;1120.49;38;7869.79;;adventure-works\jae0;Road-550-W;1;United Kingdom
+3048;672.294;0.0;2008-06-01T00:00:00;Road-550-W Yellow, 38;Yellow;713.0798;1120.49;38;7869.79;;adventure-works\linda3;Road-550-W;1;United States
+5334;672.294;0.0;2008-06-01T00:00:00;Road-550-W Yellow, 40;Yellow;713.0798;1120.49;40;8060.29;;adventure-works\jae0;Road-550-W;1;United Kingdom
+762;672.294;0.0;2008-06-01T00:00:00;Road-550-W Yellow, 40;Yellow;713.0798;1120.49;40;8060.29;;adventure-works\linda3;Road-550-W;1;United States
+3048;672.294;0.0;2008-06-01T00:00:00;Road-550-W Yellow, 42;Yellow;713.0798;1120.49;42;8223.59;;adventure-works\jae0;Road-550-W;1;United Kingdom
+762;672.294;0.0;2008-06-01T00:00:00;Road-550-W Yellow, 42;Yellow;713.0798;1120.49;42;8223.59;;adventure-works\linda3;Road-550-W;1;United States
+2286;672.294;0.0;2008-06-01T00:00:00;Road-550-W Yellow, 44;Yellow;713.0798;1120.49;44;8355.13;;adventure-works\jae0;Road-550-W;1;United Kingdom
+5334;672.294;0.0;2008-06-01T00:00:00;Road-550-W Yellow, 48;Yellow;713.0798;1120.49;48;8473.06;;adventure-works\jae0;Road-550-W;1;United Kingdom
+762;672.294;0.0;2008-06-01T00:00:00;Road-550-W Yellow, 48;Yellow;713.0798;1120.49;48;8473.06;;adventure-works\linda3;Road-550-W;1;United States
+2286;323.994;0.0;2008-06-01T00:00:00;Road-750 Black, 44;Black;343.6496;539.99;44;8967.47;;adventure-works\jae0;Road-750;1;United Kingdom
+8382;323.994;0.0;2008-06-01T00:00:00;Road-750 Black, 48;Black;343.6496;539.99;48;9130.77;;adventure-works\jae0;Road-750;1;United Kingdom
+7620;323.994;0.0;2008-06-01T00:00:00;Road-750 Black, 48;Black;343.6496;539.99;48;9130.77;;adventure-works\linda3;Road-750;1;United States
+6096;323.994;0.0;2008-06-01T00:00:00;Road-750 Black, 52;Black;343.6496;539.99;52;9262.31;;adventure-works\jae0;Road-750;1;United Kingdom
+6096;323.994;0.0;2008-06-01T00:00:00;Road-750 Black, 52;Black;343.6496;539.99;52;9262.31;;adventure-works\linda3;Road-750;1;United States
+8382;323.994;0.0;2008-06-01T00:00:00;Road-750 Black, 58;Black;343.6496;539.99;58;9430.14;;adventure-works\jae0;Road-750;1;United Kingdom
+3048;323.994;0.0;2008-06-01T00:00:00;Road-750 Black, 58;Black;343.6496;539.99;58;9430.14;;adventure-works\linda3;Road-750;1;United States
+7620;32.394;0.0;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, L;Yellow;41.5723;53.99;L;;;adventure-works\jae0;Short-Sleeve Classic Jersey;1;United Kingdom
+12192;29.6945;0.05;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, L;Yellow;41.5723;53.99;L;;;adventure-works\jae0;Short-Sleeve Classic Jersey;1;United Kingdom
+4572;32.394;0.0;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, L;Yellow;41.5723;53.99;L;;;adventure-works\linda3;Short-Sleeve Classic Jersey;1;United States
+8382;31.3142;0.02;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, L;Yellow;41.5723;53.99;L;;;adventure-works\linda3;Short-Sleeve Classic Jersey;1;United States
+6096;32.394;0.0;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, L;Yellow;41.5723;53.99;L;;;adventure-works\shu0;Short-Sleeve Classic Jersey;1;United States
+11430;32.394;0.0;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, S;Yellow;41.5723;53.99;S;;;adventure-works\jae0;Short-Sleeve Classic Jersey;1;United Kingdom
+9144;32.394;0.0;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, S;Yellow;41.5723;53.99;S;;;adventure-works\linda3;Short-Sleeve Classic Jersey;1;United States
+3048;32.394;0.0;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, S;Yellow;41.5723;53.99;S;;;adventure-works\shu0;Short-Sleeve Classic Jersey;1;United States
+10668;32.394;0.0;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, XL;Yellow;41.5723;53.99;XL;;;adventure-works\jae0;Short-Sleeve Classic Jersey;1;United Kingdom
+11430;29.6945;0.05;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, XL;Yellow;41.5723;53.99;XL;;;adventure-works\jae0;Short-Sleeve Classic Jersey;1;United Kingdom
+9906;32.394;0.0;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, XL;Yellow;41.5723;53.99;XL;;;adventure-works\linda3;Short-Sleeve Classic Jersey;1;United States
+11430;32.394;0.0;2008-06-01T00:00:00;Short-Sleeve Classic Jersey, XL;Yellow;41.5723;53.99;XL;;;adventure-works\shu0;Short-Sleeve Classic Jersey;1;United States
+3810;20.994;0.0;2008-06-01T00:00:00;Sport-100 Helmet, Black;Black;13.0863;34.99;;;;adventure-works\jae0;Sport-100;1;United Kingdom
+18288;20.2942;0.02;2008-06-01T00:00:00;Sport-100 Helmet, Black;Black;13.0863;34.99;;;;adventure-works\jae0;Sport-100;1;United Kingdom
+5334;20.994;0.0;2008-06-01T00:00:00;Sport-100 Helmet, Black;Black;13.0863;34.99;;;;adventure-works\linda3;Sport-100;1;United States
+8382;20.2942;0.02;2008-06-01T00:00:00;Sport-100 Helmet, Black;Black;13.0863;34.99;;;;adventure-works\linda3;Sport-100;1;United States
+3048;20.994;0.0;2008-06-01T00:00:00;Sport-100 Helmet, Black;Black;13.0863;34.99;;;;adventure-works\shu0;Sport-100;1;United States
+6858;20.994;0.0;2008-06-01T00:00:00;Sport-100 Helmet, Blue;Blue;13.0863;34.99;;;;adventure-works\jae0;Sport-100;1;United Kingdom
+5334;20.994;0.0;2008-06-01T00:00:00;Sport-100 Helmet, Blue;Blue;13.0863;34.99;;;;adventure-works\linda3;Sport-100;1;United States
+11430;19.2445;0.05;2008-06-01T00:00:00;Sport-100 Helmet, Blue;Blue;13.0863;34.99;;;;adventure-works\linda3;Sport-100;1;United States
+5334;20.994;0.0;2008-06-01T00:00:00;Sport-100 Helmet, Blue;Blue;13.0863;34.99;;;;adventure-works\shu0;Sport-100;1;United States
+15240;20.994;0.0;2008-06-01T00:00:00;Sport-100 Helmet, Red;Red;13.0863;34.99;;;;adventure-works\jae0;Sport-100;1;United Kingdom
+9906;20.994;0.0;2008-06-01T00:00:00;Sport-100 Helmet, Red;Red;13.0863;34.99;;;;adventure-works\linda3;Sport-100;1;United States
+1524;20.994;0.0;2008-06-01T00:00:00;Sport-100 Helmet, Red;Red;13.0863;34.99;;;;adventure-works\shu0;Sport-100;1;United States
+5334;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Blue, 46;Blue;1481.9379;2384.07;46;11398.72;;adventure-works\jae0;Touring-1000;1;United Kingdom
+3048;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Blue, 46;Blue;1481.9379;2384.07;46;11398.72;;adventure-works\linda3;Touring-1000;1;United States
+762;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Blue, 46;Blue;1481.9379;2384.07;46;11398.72;;adventure-works\shu0;Touring-1000;1;United States
+9144;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Blue, 50;Blue;1481.9379;2384.07;50;11530.26;;adventure-works\jae0;Touring-1000;1;United Kingdom
+3048;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Blue, 50;Blue;1481.9379;2384.07;50;11530.26;;adventure-works\linda3;Touring-1000;1;United States
+3048;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Blue, 54;Blue;1481.9379;2384.07;54;11648.19;;adventure-works\jae0;Touring-1000;1;United Kingdom
+1524;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Blue, 54;Blue;1481.9379;2384.07;54;11648.19;;adventure-works\linda3;Touring-1000;1;United States
+9906;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Blue, 60;Blue;1481.9379;2384.07;60;11747.98;;adventure-works\jae0;Touring-1000;1;United Kingdom
+7620;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Blue, 60;Blue;1481.9379;2384.07;60;11747.98;;adventure-works\linda3;Touring-1000;1;United States
+2286;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Blue, 60;Blue;1481.9379;2384.07;60;11747.98;;adventure-works\shu0;Touring-1000;1;United States
+3810;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Yellow, 46;Yellow;1481.9379;2384.07;46;11398.72;;adventure-works\jae0;Touring-1000;1;United Kingdom
+3048;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Yellow, 46;Yellow;1481.9379;2384.07;46;11398.72;;adventure-works\linda3;Touring-1000;1;United States
+2286;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Yellow, 46;Yellow;1481.9379;2384.07;46;11398.72;;adventure-works\shu0;Touring-1000;1;United States
+2286;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Yellow, 50;Yellow;1481.9379;2384.07;50;11530.26;;adventure-works\jae0;Touring-1000;1;United Kingdom
+1524;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Yellow, 50;Yellow;1481.9379;2384.07;50;11530.26;;adventure-works\linda3;Touring-1000;1;United States
+762;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Yellow, 54;Yellow;1481.9379;2384.07;54;11648.19;;adventure-works\jae0;Touring-1000;1;United Kingdom
+2286;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Yellow, 54;Yellow;1481.9379;2384.07;54;11648.19;;adventure-works\linda3;Touring-1000;1;United States
+9144;1382.7606;0.02;2008-06-01T00:00:00;Touring-1000 Yellow, 60;Yellow;1481.9379;2384.07;60;11747.98;;adventure-works\jae0;Touring-1000;1;United Kingdom
+3810;1430.442;0.0;2008-06-01T00:00:00;Touring-1000 Yellow, 60;Yellow;1481.9379;2384.07;60;11747.98;;adventure-works\linda3;Touring-1000;1;United States
+5334;728.91;0.0;2008-06-01T00:00:00;Touring-2000 Blue, 46;Blue;755.1508;1214.85;46;12305.90;;adventure-works\jae0;Touring-2000;1;United Kingdom
+1524;728.91;0.0;2008-06-01T00:00:00;Touring-2000 Blue, 46;Blue;755.1508;1214.85;46;12305.90;;adventure-works\linda3;Touring-2000;1;United States
+3810;728.91;0.0;2008-06-01T00:00:00;Touring-2000 Blue, 50;Blue;755.1508;1214.85;50;12437.44;;adventure-works\jae0;Touring-2000;1;United Kingdom
+3048;728.91;0.0;2008-06-01T00:00:00;Touring-2000 Blue, 50;Blue;755.1508;1214.85;50;12437.44;;adventure-works\linda3;Touring-2000;1;United States
+6858;728.91;0.0;2008-06-01T00:00:00;Touring-2000 Blue, 54;Blue;755.1508;1214.85;54;12555.37;;adventure-works\jae0;Touring-2000;1;United Kingdom
+6858;728.91;0.0;2008-06-01T00:00:00;Touring-2000 Blue, 54;Blue;755.1508;1214.85;54;12555.37;;adventure-works\linda3;Touring-2000;1;United States
+3810;728.91;0.0;2008-06-01T00:00:00;Touring-2000 Blue, 60;Blue;755.1508;1214.85;60;12655.16;;adventure-works\jae0;Touring-2000;1;United Kingdom
+3048;728.91;0.0;2008-06-01T00:00:00;Touring-2000 Blue, 60;Blue;755.1508;1214.85;60;12655.16;;adventure-works\linda3;Touring-2000;1;United States
+762;728.91;0.0;2008-06-01T00:00:00;Touring-2000 Blue, 60;Blue;755.1508;1214.85;60;12655.16;;adventure-works\shu0;Touring-2000;1;United States
+3048;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Blue, 44;Blue;461.4448;742.35;44;13049.78;;adventure-works\jae0;Touring-3000;1;United Kingdom
+762;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Blue, 44;Blue;461.4448;742.35;44;13049.78;;adventure-works\linda3;Touring-3000;1;United States
+8382;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Blue, 50;Blue;461.4448;742.35;50;13213.08;;adventure-works\jae0;Touring-3000;1;United Kingdom
+6096;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Blue, 50;Blue;461.4448;742.35;50;13213.08;;adventure-works\linda3;Touring-3000;1;United States
+3048;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Blue, 50;Blue;461.4448;742.35;50;13213.08;;adventure-works\shu0;Touring-3000;1;United States
+5334;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Blue, 54;Blue;461.4448;742.35;54;13462.55;;adventure-works\jae0;Touring-3000;1;United Kingdom
+6096;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Blue, 54;Blue;461.4448;742.35;54;13462.55;;adventure-works\linda3;Touring-3000;1;United States
+1524;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Blue, 58;Blue;461.4448;742.35;58;13562.34;;adventure-works\jae0;Touring-3000;1;United Kingdom
+3048;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Blue, 58;Blue;461.4448;742.35;58;13562.34;;adventure-works\linda3;Touring-3000;1;United States
+2286;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Blue, 62;Blue;461.4448;742.35;62;13607.70;;adventure-works\jae0;Touring-3000;1;United Kingdom
+3810;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 44;Yellow;461.4448;742.35;44;13049.78;;adventure-works\jae0;Touring-3000;1;United Kingdom
+9144;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 44;Yellow;461.4448;742.35;44;13049.78;;adventure-works\linda3;Touring-3000;1;United States
+762;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 44;Yellow;461.4448;742.35;44;13049.78;;adventure-works\shu0;Touring-3000;1;United States
+5334;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 50;Yellow;461.4448;742.35;50;13213.08;;adventure-works\jae0;Touring-3000;1;United Kingdom
+762;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 50;Yellow;461.4448;742.35;50;13213.08;;adventure-works\linda3;Touring-3000;1;United States
+762;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 50;Yellow;461.4448;742.35;50;13213.08;;adventure-works\shu0;Touring-3000;1;United States
+3810;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 54;Yellow;461.4448;742.35;54;13344.62;;adventure-works\jae0;Touring-3000;1;United Kingdom
+762;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 54;Yellow;461.4448;742.35;54;13344.62;;adventure-works\linda3;Touring-3000;1;United States
+2286;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 58;Yellow;461.4448;742.35;58;13512.45;;adventure-works\jae0;Touring-3000;1;United Kingdom
+3810;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 62;Yellow;461.4448;742.35;62;13607.70;;adventure-works\jae0;Touring-3000;1;United Kingdom
+8382;430.563;0.02;2008-06-01T00:00:00;Touring-3000 Yellow, 62;Yellow;461.4448;742.35;62;13607.70;;adventure-works\jae0;Touring-3000;1;United Kingdom
+3048;445.41;0.0;2008-06-01T00:00:00;Touring-3000 Yellow, 62;Yellow;461.4448;742.35;62;13607.70;;adventure-works\linda3;Touring-3000;1;United States
+6096;2.994;0.0;2008-06-01T00:00:00;Water Bottle - 30 oz.;;1.8663;4.99;;;;adventure-works\jae0;Water Bottle;1;United Kingdom
+16764;2.8942;0.02;2008-06-01T00:00:00;Water Bottle - 30 oz.;;1.8663;4.99;;;;adventure-works\jae0;Water Bottle;1;United Kingdom
+12192;2.994;0.0;2008-06-01T00:00:00;Water Bottle - 30 oz.;;1.8663;4.99;;;;adventure-works\linda3;Water Bottle;1;United States
+6096;2.994;0.0;2008-06-01T00:00:00;Water Bottle - 30 oz.;;1.8663;4.99;;;;adventure-works\shu0;Water Bottle;1;United States
+12954;41.994;0.0;2008-06-01T00:00:00;Women's Mountain Shorts, L;Black;26.1763;69.99;L;;;adventure-works\jae0;Women's Mountain Shorts;1;United Kingdom
+7620;41.994;0.0;2008-06-01T00:00:00;Women's Mountain Shorts, L;Black;26.1763;69.99;L;;;adventure-works\shu0;Women's Mountain Shorts;1;United States
+3810;41.994;0.0;2008-06-01T00:00:00;Women's Mountain Shorts, M;Black;26.1763;69.99;M;;;adventure-works\jae0;Women's Mountain Shorts;1;United Kingdom
+9144;41.994;0.0;2008-06-01T00:00:00;Women's Mountain Shorts, S;Black;26.1763;69.99;S;;;adventure-works\jae0;Women's Mountain Shorts;1;United Kingdom
+20574;40.5942;0.02;2008-06-01T00:00:00;Women's Mountain Shorts, S;Black;26.1763;69.99;S;;;adventure-works\jae0;Women's Mountain Shorts;1;United Kingdom
+6858;41.994;0.0;2008-06-01T00:00:00;Women's Mountain Shorts, S;Black;26.1763;69.99;S;;;adventure-works\shu0;Women's Mountain Shorts;1;United States

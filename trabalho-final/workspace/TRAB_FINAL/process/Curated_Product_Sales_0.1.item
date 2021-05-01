@@ -1,38 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMapper="http://www.talend.org/mapper" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="reportBI" prompt="reportBI?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\ReportBI.csv"/>
-    <contextParameter comment="" name="reportProductDistBI" prompt="reportProductDistBI?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\ReportProductDistBI.csv"/>
-    <contextParameter comment="" name="reportDS" prompt="reportDS?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\ReportDS.csv"/>
-    <contextParameter comment="" name="sampleDS" prompt="sampleDS?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\SampleDS.csv"/>
-    <contextParameter comment="" name="Address_Harmonized" prompt="Address_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\Address.csv"/>
-    <contextParameter comment="" name="Customer_Harmonized" prompt="Customer_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\Customer.csv"/>
-    <contextParameter comment="" name="CustomerAddress_Harmonized" prompt="CustomerAddress_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\CustomerAddress.csv"/>
-    <contextParameter comment="" name="Product_Harmonized" prompt="Product_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\Product.csv"/>
-    <contextParameter comment="" name="ProductCategory_Harmonized" prompt="ProductCategory_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\ProductCategory.csv"/>
-    <contextParameter comment="" name="ProductDescription_Harmonized" prompt="ProductDescription_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\ProductDescription.csv"/>
-    <contextParameter comment="" name="ProductModel_Harmonized" prompt="ProductModel_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\ProductModel.csv"/>
-    <contextParameter comment="" name="ProductModelProductDescription_Harmonized" prompt="ProductModelProductDescription_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\ProductModelProductDescription.csv"/>
-    <contextParameter comment="" name="SalesOrderDetail_Harmonized" prompt="SalesOrderDetail_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\SalesOrderDetail.csv"/>
-    <contextParameter comment="" name="SalesOrderHeader_Harmonized" prompt="SalesOrderHeader_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\HarmonizedData\SalesOrderHeader.csv"/>
-    <contextParameter comment="" name="reportProductSalesBI" prompt="reportProductSalesBI?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\ReportProductSalesBI.csv"/>
+    <contextParameter comment="" name="LocalPath" prompt="LocalPath?" promptNeeded="false" repositoryContextId="_-lTzkKrGEeuoerYo1-WcGg" type="id_String" value="D:\OneDrive\Documentos\MBA Engenharia de Dados\DataOps\Trabalhos\"/>
+    <contextParameter comment="" name="reportBI" prompt="reportBI?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\ReportBI.csv"/>
+    <contextParameter comment="" name="reportDS" prompt="reportDS?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\ReportDS.csv"/>
+    <contextParameter comment="" name="reportProductDistBI" prompt="reportProductDistBI?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\ReportProductDistBI.csv"/>
+    <contextParameter comment="" name="reportProductSalesBI" prompt="reportProductSalesBI?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\ReportProductSalesBI.csv"/>
+    <contextParameter comment="" name="sampleDS" prompt="sampleDS?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\SampleDS.csv"/>
+    <contextParameter comment="" name="sampleTest" prompt="sampleTest?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\SampleTest.csv"/>
+    <contextParameter comment="" name="sampleTrain" prompt="sampleTrain?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\SampleTrain.csv"/>
+    <contextParameter comment="" name="Address_Harmonized" prompt="Address_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\harmonized\Address.csv"/>
+    <contextParameter comment="" name="Customer_Harmonized" prompt="Customer_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\harmonized\Customer.csv"/>
+    <contextParameter comment="" name="CustomerAddress_Harmonized" prompt="CustomerAddress_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\harmonized\CustomerAddress.csv"/>
+    <contextParameter comment="" name="Product_Harmonized" prompt="Product_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\harmonized\Product.csv"/>
+    <contextParameter comment="" name="ProductCategory_Harmonized" prompt="ProductCategory_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\harmonized\ProductCategory.csv"/>
+    <contextParameter comment="" name="ProductDescription_Harmonized" prompt="ProductDescription_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\harmonized\ProductDescription.csv"/>
+    <contextParameter comment="" name="ProductModel_Harmonized" prompt="ProductModel_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\harmonized\ProductModel.csv"/>
+    <contextParameter comment="" name="ProductModelProductDescription_Harmonized" prompt="ProductModelProductDescription_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\harmonized\ProductModelProductDescription.csv"/>
+    <contextParameter comment="" name="SalesOrderDetail_Harmonized" prompt="SalesOrderDetail_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\harmonized\SalesOrderDetail.csv"/>
+    <contextParameter comment="" name="SalesOrderHeader_Harmonized" prompt="SalesOrderHeader_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\harmonized\SalesOrderHeader.csv"/>
+    <contextParameter comment="" name="Address_Raw" prompt="Address_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\raw\Address.csv"/>
+    <contextParameter comment="" name="Customer_Raw" prompt="Customer_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\raw\Customer.csv"/>
+    <contextParameter comment="" name="CustomerAddress_Raw" prompt="CustomerAddress_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\raw\CustomerAddress.csv"/>
+    <contextParameter comment="" name="Product_Raw" prompt="Product_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\raw\Product.csv"/>
+    <contextParameter comment="" name="ProductCategory_Raw" prompt="ProductCategory_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\raw\ProductCategory.csv"/>
+    <contextParameter comment="" name="ProductDescription_Raw" prompt="ProductDescription_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\raw\ProductDescription.csv"/>
+    <contextParameter comment="" name="ProductModel_Raw" prompt="ProductModel_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\raw\ProductModel.csv"/>
+    <contextParameter comment="" name="ProductModelProductDescription_Raw" prompt="ProductModelProductDescription_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\raw\ProductModelProductDescription.csv"/>
+    <contextParameter comment="" name="SalesOrderDetail_Raw" prompt="SalesOrderDetail_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\raw\SalesOrderDetail.csv"/>
+    <contextParameter comment="" name="SalesOrderHeader_Raw" prompt="SalesOrderHeader_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd\trabalho-final\data-layers\raw\SalesOrderHeader.csv"/>
   </context>
   <context confirmationNeeded="false" name="Linux">
-    <contextParameter comment="" name="reportBI" prompt="reportBI?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/ReportBI.csv"/>
-    <contextParameter comment="" name="reportProductDistBI" prompt="reportProductDistBI?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/ReportProductDistBI.csv"/>
-    <contextParameter comment="" name="reportDS" prompt="reportDS?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/ReportDS.csv"/>
-    <contextParameter comment="" name="sampleDS" prompt="sampleDS?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/SampleDS.csv"/>
-    <contextParameter comment="" name="Address_Harmonized" prompt="Address_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/Address.csv"/>
-    <contextParameter comment="" name="Customer_Harmonized" prompt="Customer_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/Customer.csv"/>
-    <contextParameter comment="" name="CustomerAddress_Harmonized" prompt="CustomerAddress_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/CustomerAddress.csv"/>
-    <contextParameter comment="" name="Product_Harmonized" prompt="Product_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/Product.csv"/>
-    <contextParameter comment="" name="ProductCategory_Harmonized" prompt="ProductCategory_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/ProductCategory.csv"/>
-    <contextParameter comment="" name="ProductDescription_Harmonized" prompt="ProductDescription_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/ProductDescription.csv"/>
-    <contextParameter comment="" name="ProductModel_Harmonized" prompt="ProductModel_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/ProductModel.csv"/>
-    <contextParameter comment="" name="ProductModelProductDescription_Harmonized" prompt="ProductModelProductDescription_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/ProductModelProductDescription.csv"/>
-    <contextParameter comment="" name="SalesOrderDetail_Harmonized" prompt="SalesOrderDetail_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/SalesOrderDetail.csv"/>
-    <contextParameter comment="" name="SalesOrderHeader_Harmonized" prompt="SalesOrderHeader_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/HarmonizedData/SalesOrderHeader.csv"/>
-    <contextParameter comment="" name="reportProductSalesBI" prompt="reportProductSalesBI?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/ReportProductSalesBI.csv"/>
+    <contextParameter comment="" name="LocalPath" prompt="LocalPath?" promptNeeded="false" repositoryContextId="_-lTzkKrGEeuoerYo1-WcGg" type="id_String" value="/home/leonardo/git/fiap/"/>
+    <contextParameter comment="" name="reportBI" prompt="reportBI?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/ReportBI.csv"/>
+    <contextParameter comment="" name="reportDS" prompt="reportDS?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/ReportDS.csv"/>
+    <contextParameter comment="" name="reportProductDistBI" prompt="reportProductDistBI?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/ReportProductDistBI.csv"/>
+    <contextParameter comment="" name="reportProductSalesBI" prompt="reportProductSalesBI?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/ReportProductSalesBI.csv"/>
+    <contextParameter comment="" name="sampleDS" prompt="sampleDS?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/SampleDS.csv"/>
+    <contextParameter comment="" name="sampleTest" prompt="sampleTest?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/SampleTest.csv"/>
+    <contextParameter comment="" name="sampleTrain" prompt="sampleTrain?" promptNeeded="false" repositoryContextId="_stWzgKb1EeupIPS_jjrK7A" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/SampleTrain.csv"/>
+    <contextParameter comment="" name="Address_Harmonized" prompt="Address_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/harmonized/Address.csv"/>
+    <contextParameter comment="" name="Customer_Harmonized" prompt="Customer_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/harmonized/Customer.csv"/>
+    <contextParameter comment="" name="CustomerAddress_Harmonized" prompt="CustomerAddress_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/harmonized/CustomerAddress.csv"/>
+    <contextParameter comment="" name="Product_Harmonized" prompt="Product_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/harmonized//Product.csv"/>
+    <contextParameter comment="" name="ProductCategory_Harmonized" prompt="ProductCategory_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/harmonized/ProductCategory.csv"/>
+    <contextParameter comment="" name="ProductDescription_Harmonized" prompt="ProductDescription_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/harmonized/ProductDescription.csv"/>
+    <contextParameter comment="" name="ProductModel_Harmonized" prompt="ProductModel_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/harmonized/ProductModel.csv"/>
+    <contextParameter comment="" name="ProductModelProductDescription_Harmonized" prompt="ProductModelProductDescription_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/harmonized/ProductModelProductDescription.csv"/>
+    <contextParameter comment="" name="SalesOrderDetail_Harmonized" prompt="SalesOrderDetail_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/harmonized/SalesOrderDetail.csv"/>
+    <contextParameter comment="" name="SalesOrderHeader_Harmonized" prompt="SalesOrderHeader_Harmonized?" promptNeeded="false" repositoryContextId="_FlqFsKY5EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/harmonized/SalesOrderHeader.csv"/>
+    <contextParameter comment="" name="Address_Raw" prompt="Address_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/raw/Address.csv"/>
+    <contextParameter comment="" name="Customer_Raw" prompt="Customer_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/raw/Customer.csv"/>
+    <contextParameter comment="" name="CustomerAddress_Raw" prompt="CustomerAddress_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/raw/CustomerAddress.csv"/>
+    <contextParameter comment="" name="Product_Raw" prompt="Product_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/raw/Product.csv"/>
+    <contextParameter comment="" name="ProductCategory_Raw" prompt="ProductCategory_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/raw/ProductCategory.csv"/>
+    <contextParameter comment="" name="ProductDescription_Raw" prompt="ProductDescription_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/raw/ProductDescription.csv"/>
+    <contextParameter comment="" name="ProductModel_Raw" prompt="ProductModel_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/raw/ProductModel.csv"/>
+    <contextParameter comment="" name="ProductModelProductDescription_Raw" prompt="ProductModelProductDescription_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/raw/ProductModelProductDescription.csv"/>
+    <contextParameter comment="" name="SalesOrderDetail_Raw" prompt="SalesOrderDetail_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/raw/SalesOrderDetail.csv"/>
+    <contextParameter comment="" name="SalesOrderHeader_Raw" prompt="SalesOrderHeader_Raw?" promptNeeded="false" repositoryContextId="_i_4PYKY2EeudGJI5D9rvsw" type="id_String" value="dataops_11abd/trabalho-final/data-layers/raw/SalesOrderHeader.csv"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="192" show="false"/>
@@ -75,7 +101,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:v/9ie+QxekP4mr+tC8G+Np7sBqJirpolapnRGDnY" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:Poy0xa7W6ysWhUK7gNxtoLo0zjxQROK+oqhXDfH9" show="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
@@ -110,7 +136,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:rWE7s1CXBtjhdF+k8riMfx/2hXo98hYOk18WPTHT" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:3UDRI96OyV854YQCfPLwY/uxbCMZC+tnPVh+JUUw" show="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" show="false"/>
@@ -142,7 +168,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="-64" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_1" show="false"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.SalesOrderDetail_Harmonized"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.SalesOrderDetail_Harmonized"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -257,7 +283,7 @@
     <elementParameter field="TEXT" name="ROWS_BUFFER_SIZE" value="2000000"/>
     <elementParameter field="CHECK" name="CHANGE_HASH_AND_EQUALS_FOR_BIGDECIMAL" value="true"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata name="out1">
+    <metadata connector="FLOW" name="out1">
       <column comment="" defaultValue="" key="false" length="5" name="OrderQty" nullable="false" pattern="" precision="0" sourceType="SMALLINT" type="id_Short" usefulColumn="true"/>
       <column comment="" defaultValue="" key="false" length="19" name="UnitPrice" nullable="false" pattern="" precision="4" sourceType="FLOAT" type="id_Double" usefulColumn="true"/>
       <column comment="" defaultValue="" key="false" length="19" name="UnitPriceDiscount" nullable="false" pattern="" precision="4" sourceType="FLOAT" type="id_Double" usefulColumn="true"/>
@@ -275,7 +301,7 @@
       <column comment="" key="false" length="100" name="CountryRegion" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="100" usefulColumn="true"/>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties shellMaximized="true"/>
+      <uiProperties/>
       <varTables sizeState="INTERMEDIATE" name="Var">
         <mapperTableEntries name="Week" expression="TalendDate.getPartOfDate(&quot;WEEK&quot;,row7.OrderDate) + 1 " type="id_Integer"/>
       </varTables>
@@ -356,7 +382,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="-64" posY="224">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_2" show="false"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.SalesOrderHeader_Harmonized"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.SalesOrderHeader_Harmonized"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -517,7 +543,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="-64" posY="352">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_3" show="false"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.Product_Harmonized"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.Product_Harmonized"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -663,7 +689,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="-64" posY="800">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_5" show="false"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.CustomerAddress_Harmonized"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.CustomerAddress_Harmonized"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -739,7 +765,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="-64" posY="864">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_6" show="false"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.Address_Harmonized"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.Address_Harmonized"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -944,7 +970,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileOutputDelimited_1" show="false"/>
     <elementParameter field="CHECK" name="USESTREAM" value="false"/>
     <elementParameter field="TEXT" name="STREAMNAME" value="outputStream" show="false"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.reportProductSalesBI"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.reportProductSalesBI"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="CHECK" name="OS_LINE_SEPARATOR_AS_ROW_SEPARATOR" value="true" show="false"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -992,7 +1018,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="-64" posY="736">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_4" show="false"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.Customer_Harmonized"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.Customer_Harmonized"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -1104,7 +1130,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="-64" posY="448">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_7" show="false"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.ProductDescription_Harmonized"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.ProductDescription_Harmonized"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -1174,7 +1200,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="-64" posY="544">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_8" show="false"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.ProductCategory_Harmonized"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.ProductCategory_Harmonized"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -1249,7 +1275,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="-64" posY="608">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_9" show="false"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.ProductModel_Harmonized"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.ProductModel_Harmonized"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -1319,7 +1345,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="-64" posY="672">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileInputDelimited_10" show="false"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.ProductModelProductDescription_Harmonized"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.LocalPath+context.ProductModelProductDescription_Harmonized"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;" show="false"/>
@@ -1406,7 +1432,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileDelete_1" show="false"/>
     <elementParameter field="FILE" name="FILENAME" value="context.reportProductDistBI" show="false"/>
     <elementParameter field="DIRECTORY" name="DIRECTORY" value="&quot;/home/leonardo/git/fiap/dataops_11abd/trabalho-final/workspace/delete_folder&quot;" show="false"/>
-    <elementParameter field="TEXT" name="PATH" value="context.reportProductSalesBI"/>
+    <elementParameter field="TEXT" name="PATH" value="context.LocalPath+context.reportProductSalesBI"/>
     <elementParameter field="CHECK" name="FAILON" value="false"/>
     <elementParameter field="CHECK" name="FOLDER" value="false" show="false"/>
     <elementParameter field="CHECK" name="FOLDER_FILE" value="true"/>

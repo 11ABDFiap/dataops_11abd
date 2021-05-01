@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
   <talendfile:ContextType xmi:id="_st_FoKb1EeupIPS_jjrK7A" confirmationNeeded="false" name="Default">
-    <contextParameter xmi:id="_st_Foab1EeupIPS_jjrK7A" comment="" name="reportBI" prompt="reportBI?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\ReportBI.csv"/>
-    <contextParameter xmi:id="_dA1sQKgyEeuxJar_LvPwYQ" comment="" name="reportDS" prompt="reportDS?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\ReportDS.csv"/>
-    <contextParameter xmi:id="_HwWccKh6Eeu7-MOmI0ZGRg" comment="" name="sampleDS" prompt="sampleDS?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\SampleDS.csv"/>
-    <contextParameter xmi:id="_Jlg_MKqnEeuZEcQo-mlwPg" comment="" name="reportProductDistBI" prompt="reportProductDistBI?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\ReportProductDistBI.csv"/>
-    <contextParameter xmi:id="_Ho_qUKq2Eeu0_52BIjPGJg" comment="" name="reportProductSalesBI" prompt="reportProductSalesBI?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\ReportProductSalesBI.csv"/>
-    <contextParameter xmi:id="_MpoZAKq-Eeu0_52BIjPGJg" comment="" name="sampleTrain" prompt="sampleTrain?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\SampleTrain.csv"/>
-    <contextParameter xmi:id="_MpoZAaq-Eeu0_52BIjPGJg" comment="" name="sampleTest" prompt="sampleTest?" promptNeeded="false" type="id_String" value="C:\Backup\MBA\DataOps\Projeto\CuratedData\SampleTest.csv"/>
+    <contextParameter xmi:id="_st_Foab1EeupIPS_jjrK7A" comment="" name="reportBI" prompt="reportBI?" promptNeeded="false" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\ReportBI.csv"/>
+    <contextParameter xmi:id="_dA1sQKgyEeuxJar_LvPwYQ" comment="" name="reportDS" prompt="reportDS?" promptNeeded="false" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\ReportDS.csv"/>
+    <contextParameter xmi:id="_HwWccKh6Eeu7-MOmI0ZGRg" comment="" name="sampleDS" prompt="sampleDS?" promptNeeded="false" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\SampleDS.csv"/>
+    <contextParameter xmi:id="_Jlg_MKqnEeuZEcQo-mlwPg" comment="" name="reportProductDistBI" prompt="reportProductDistBI?" promptNeeded="false" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\ReportProductDistBI.csv"/>
+    <contextParameter xmi:id="_Ho_qUKq2Eeu0_52BIjPGJg" comment="" name="reportProductSalesBI" prompt="reportProductSalesBI?" promptNeeded="false" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\ReportProductSalesBI.csv"/>
+    <contextParameter xmi:id="_MpoZAKq-Eeu0_52BIjPGJg" comment="" name="sampleTrain" prompt="sampleTrain?" promptNeeded="false" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\SampleTrain.csv"/>
+    <contextParameter xmi:id="_MpoZAaq-Eeu0_52BIjPGJg" comment="" name="sampleTest" prompt="sampleTest?" promptNeeded="false" type="id_String" value="dataops_11abd\trabalho-final\data-layers\curated\SampleTest.csv"/>
   </talendfile:ContextType>
   <talendfile:ContextType xmi:id="_st_Foqb1EeupIPS_jjrK7A" confirmationNeeded="false" name="Linux">
-    <contextParameter xmi:id="_st_Fo6b1EeupIPS_jjrK7A" comment="" name="reportBI" prompt="reportBI?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/ReportBI.csv"/>
-    <contextParameter xmi:id="_dA1sQagyEeuxJar_LvPwYQ" comment="" name="reportDS" prompt="reportDS?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/ReportDS.csv"/>
-    <contextParameter xmi:id="_HwWccah6Eeu7-MOmI0ZGRg" comment="" name="sampleDS" prompt="sampleDS?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/SampleDS.csv"/>
-    <contextParameter xmi:id="_Jlg_MaqnEeuZEcQo-mlwPg" comment="" name="reportProductDistBI" prompt="reportProductDistBI?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/ReportProductDistBI.csv"/>
-    <contextParameter xmi:id="_Ho_qUaq2Eeu0_52BIjPGJg" comment="" name="reportProductSalesBI" prompt="reportProductSalesBI?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/ReportProductSalesBI.csv"/>
-    <contextParameter xmi:id="_MpoZAqq-Eeu0_52BIjPGJg" comment="" name="sampleTrain" prompt="sampleTrain?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/SampleTrain.csv"/>
-    <contextParameter xmi:id="_MpoZA6q-Eeu0_52BIjPGJg" comment="" name="sampleTest" prompt="sampleTest?" promptNeeded="false" type="id_String" value="/home/leonardo/MEGA/fiap/data_ops/DataOps/CuratedData/SampleTest.csv"/>
+    <contextParameter xmi:id="_st_Fo6b1EeupIPS_jjrK7A" comment="" name="reportBI" prompt="reportBI?" promptNeeded="false" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/ReportBI.csv"/>
+    <contextParameter xmi:id="_dA1sQagyEeuxJar_LvPwYQ" comment="" name="reportDS" prompt="reportDS?" promptNeeded="false" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/ReportDS.csv"/>
+    <contextParameter xmi:id="_HwWccah6Eeu7-MOmI0ZGRg" comment="" name="sampleDS" prompt="sampleDS?" promptNeeded="false" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/SampleDS.csv"/>
+    <contextParameter xmi:id="_Jlg_MaqnEeuZEcQo-mlwPg" comment="" name="reportProductDistBI" prompt="reportProductDistBI?" promptNeeded="false" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/ReportProductDistBI.csv"/>
+    <contextParameter xmi:id="_Ho_qUaq2Eeu0_52BIjPGJg" comment="" name="reportProductSalesBI" prompt="reportProductSalesBI?" promptNeeded="false" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/ReportProductSalesBI.csv"/>
+    <contextParameter xmi:id="_MpoZAqq-Eeu0_52BIjPGJg" comment="" name="sampleTrain" prompt="sampleTrain?" promptNeeded="false" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/SampleTrain.csv"/>
+    <contextParameter xmi:id="_MpoZA6q-Eeu0_52BIjPGJg" comment="" name="sampleTest" prompt="sampleTest?" promptNeeded="false" type="id_String" value="dataops_11abd/trabalho-final/data-layers/curated/SampleTest.csv"/>
   </talendfile:ContextType>
 </xmi:XMI>

@@ -28,6 +28,8 @@ target/
 hs_err_pid*
 .classpath
 
+.vscode/
+
 # Gradle #
 .gradle
 build/
